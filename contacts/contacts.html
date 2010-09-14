@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="shortcut icon" type="image/ico" href="http://www.sprymedia.co.uk/media/images/favicon.ico" />
+		
+		<title>DataTables example</title>
+		<style type="text/css" title="currentStyle">
+			@import "../media/css/demo_page.css";
+			@import "../media/css/demo_table.css";
+		</style>
+		<script type="text/javascript" language="javascript" src="../media/js/jquery.js"></script>
+		<script type="text/javascript" language="javascript" src="../media/js/jquery.dataTables.js"></script>
+		<script type="text/javascript" charset="utf-8">
+var oTable;
+var gaiSelected =  [];
+
+
+
+
+$(document).ready(function() {
+
+ /*   $("#formSubmit").click(function(){
+     var data = $("#form").serialize();
+     $.ajax({
+			type: "POST",
+			url: "../send.php",
+			data: data,
+                        dataType: 'json',
+			success: function(){
+				//$('form#submit').hide(function(){$('div.success').fadeIn();});
+
+			}
+		});
+});*/
+	$('#form').submit( function() {
+		if(gaiSelected == ''){
+		alert ("Zaznacz co najmniej jeden rekord ");
+		return false;
+	  }
+	else {
+          
+           var data = gaiSelected.toString();
+           var nHidden = document.createElement( 'input' );
+		nHidden.type = 'hidden';
+		nHidden.name = "data";
+		//nHidden.value = $('input:eq(0)', nNodes).val();
+		nHidden.value=data;
+                this.appendChild(nHidden);
+
+           // var dataString = JSON.stringify(gaiSelected);
+   
+    //return false;
+	}
+
+		
+	} );
+
+	/* Init the table */
+	oTable = $("#example").dataTable({
+		"bProcessing": true,
+		"bServerSide": true,
+		"sAjaxSource": "../json.php",
+		"fnRowCallback": function( nRow, aData, iDisplayIndex ) {
+			if ( jQuery.inArray(aData[0], gaiSelected) != -1 )
+			{
+				$(nRow).addClass('row_selected');
+			}
+			return nRow;
+		},
+		"aoColumnDefs": [
+			{  "bVisible": 0,
+                           "aTargets": [0] 
+                        }
+                        
+		],
+                "sPaginationType": "full_numbers"
+
+	});
+	
+	/* Click event handler */
+	$('#example tbody tr').live('click', function () {
+		var aData = oTable.fnGetData( this );
+		var iId = aData[0];
+		
+		if ( jQuery.inArray(iId, gaiSelected) == -1 )
+		{
+			gaiSelected[gaiSelected.length++] = iId;
+		}
+		else
+		{
+			gaiSelected = jQuery.grep(gaiSelected, function(value) {
+				return value != iId;
+			} );
+		}
+		
+		$(this).toggleClass('row_selected');
+	} );
+} );
+		</script>
+	</head>
+	<body id="dt_example">
+		<div id="container">
+			<div class="full_width big">
+				<i>DataTables</i> server-side processing with user selectable rows example
+			</div>
+			
+			<h1>Preamble</h1>
+			<p>When you want to detail with user selectable rows and DataTables, it is relatively simple when using DOM based data - but if using server-side processing, DataTables doesn't retain state over pages / filters etc, leaving this to the server-side instead. As such, you will need to keep a track of which rows a user as selected and mark them as selected on each draw. This is shown in this demo, which uses a unique ID in the first (and hidden) column.</p>
+			<p>Credit for this example belongs with forum member <a href="http://datatables.net/forums/comments.php?DiscussionID=582&page=1#Item_4">iuliandum</a>. Thanks!</p>
+			
+			<h1>Live example</h1>
+                        <form id="form" action="../send.php" method="post" >
+					
+			<div id="dynamic">
+<table cellpadding="0" cellspacing="0" border="0" class="display" id="example">
+	<thead>
+		<tr>
+			<th width="40%">ID</th>
+			<th width="15%">Nazwa</th>
+			<th width="10%">Miejscowość</th>
+			<th width="15%">Tel</th>
+			<th width="15%">Email</th>
+			<th width="5%">www</th>
+                        <th width="0%">akcja</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="5" class="dataTables_empty">Loading data from server</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<th>ID</th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+                        <th></th>
+		</tr>
+	</tfoot>
+</table>
+			</div>
+                       
+			<div class="spacer"></div>
+			 <div style="text-align:left; padding-bottom:1em;">
+						<button type="submit">Dodaj zaznaczone rekordy do kolejki</button>
+					</div></form>
+<!--                        <button id="formSubmit">Submit</button>-->
+
+			<div id="footer" style="text-align:center;">
+				<span style="font-size:10px;">DataTables &copy; Allan Jardine 2008-2010</span>
+			</div>
+		</div>
+	</body>
+</html>

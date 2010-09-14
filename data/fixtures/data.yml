@@ -1,0 +1,6776 @@
+House:
+  House_1:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_1
+    city: Police
+    zipCode: 72-010
+    street: 'Siedlecka 1a'
+    tel: '913121055'
+    email: mok@gminapolice.pl
+    www: www.gminapolice.pl
+    slogan: null
+    target: null
+  House_2:
+    name: 'Ośrodek Kultury'
+    Region: Region_1
+    city: 'Drawsko Pomorskie,'
+    zipCode: 78-500
+    street: 'Piłsudskiego 12'
+    tel: '94 363 22 30'
+    email: dpok@post.pl
+    www: -
+    slogan: null
+    target: null
+  House_3:
+    name: 'Barlinecki Ośrodek Kultury'
+    Region: Region_1
+    city: 'Barlinek,'
+    zipCode: 74-320
+    street: 'Podwale 9'
+    tel: "\r\n                    Tel.: 95 746 21 35"
+    email: bok@barlinek.pl
+    www: null
+    slogan: null
+    target: null
+  House_5:
+    name: 'Bursztyn. Centrum Kulturalne. Stowarzyszenie Centrum Inicjatyw Naukowo-Kulturalnych'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-470
+    street: 'al. Wojska Polskiego 90b'
+    tel: "\r\n                    Tel.: 91 433 50 72"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_6:
+    name: 'Cedyński Ośrodek Kultury i Sportu'
+    Region: Region_1
+    city: 'Cedynia,'
+    zipCode: 74-520
+    street: 'pl. Wolności 4'
+    tel: "\r\n                    Tel/fax: 91 414 41 31"
+    email: cokiscedynia@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_7:
+    name: 'Centrum Kultury'
+    Region: Region_1
+    city: 'Chojna,'
+    zipCode: 74-500
+    street: 'pl. Konstytucji 3 Maja'
+    tel: "\r\n                    Tel.: 91 402 20 01"
+    email: ckchojna@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_8:
+    name: 'Centrum Kultury'
+    Region: Region_1
+    city: 'Połczyn-Zdrój,'
+    zipCode: 78-320
+    street: 'Wojska Polskiego 54'
+    tel: "\r\n                    Tel.: 94 366 27 59"
+    email: ck_polczyn@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_9:
+    name: 'Centrum Kultury i Rekreacji'
+    Region: Region_1
+    city: 'Borne Sulinowo,'
+    zipCode: 78-449
+    street: 'al. Niepodległości 21'
+    tel: "\r\n                    Tel.: 94 373 31 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_10:
+    name: 'Centrum Oświatowo - Kulturalnego'
+    Region: Region_1
+    city: 'Ińsko,'
+    zipCode: 73-140
+    street: 'Poprzeczna 1'
+    tel: "\r\n                    Tel.: 91 562 30 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_11:
+    name: 'Czaplinecki Ośrodek Kultury'
+    Region: Region_1
+    city: 'Czaplinek,'
+    zipCode: 78-550
+    street: 'Pławieńska 1a'
+    tel: "\r\n                    Tel/fax: 94 375 55 06"
+    email: czok.czaplinek@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_12:
+    name: 'Darłowski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Darłowo,'
+    zipCode: 76-150
+    street: 'Morska 56'
+    tel: "\r\n                    Tel.: 94 314 26 29"
+    email: '<span class="hitHighlight">kultura</span>@darlowo.'
+    www: null
+    slogan: null
+    target: null
+  House_13:
+    name: 'Dębnowski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Dębno,'
+    zipCode: 74-400
+    street: 'Daszyńskiego 20'
+    tel: "\r\n                    Tel/fax: 95 760 23 00"
+    email: biuro@dok.org.pl
+    www: www.dok.org.pl
+    slogan: null
+    target: null
+  House_14:
+    name: 'Dom Kultury'
+    Region: Region_1
+    city: 'Choszczno,'
+    zipCode: 73-200
+    street: 'Bohaterów Warszawy 17'
+    tel: "\r\n                    Tel/fax: 95 765 72 96"
+    email: chdk@choszczno.pl
+    www: null
+    slogan: null
+    target: null
+  House_15:
+    name: 'Dom Kultury'
+    Region: Region_1
+    city: 'Człopa,'
+    zipCode: 78-630
+    street: 'Strzelecka 1'
+    tel: "\r\n                    Tel/fax: 67 259 11 44"
+    email: domkultury@czlopa.pl
+    www: null
+    slogan: null
+    target: null
+  House_16:
+    name: 'Dom Pracy Twórczej'
+    Region: Region_1
+    city: 'Świnoujście,'
+    zipCode: 72-602
+    street: 'Sienkiewicza 18'
+    tel: "\r\n                    Tel.: 91 321 21 21"
+    email: dptsw@man.poznan.pl
+    www: null
+    slogan: null
+    target: null
+  House_17:
+    name: 'Dom Strażaka Ochotniczej Straży Pożarnej'
+    Region: Region_1
+    city: 'Tanowo,'
+    zipCode: 72-004
+    street: 'Szczecińska 5a'
+    tel: "\r\n                    Tel.: 91 312 65 69"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_18:
+    name: 'Dom Sztuki i Architektury Sp. z o.o.'
+    Region: Region_1
+    city: 'Koszalin,'
+    zipCode: 75-400
+    street: 'Piastowska 21'
+    tel: "\r\n                    Tel.: 94 342 24 36"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_19:
+    name: 'Drawieński Ośrodek Kultury'
+    Region: Region_1
+    city: 'Drawno,'
+    zipCode: 73-220
+    street: 'Szpitalna 2'
+    tel: "\r\n                    Tel/fax: 95 768 23 43"
+    email: dokdrawno@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_35:
+    name: 'Goleniowski Dom Kultury'
+    Region: Region_1
+    city: 'Goleniów,'
+    zipCode: 72-100
+    street: 'Juliusza Słowackiego 1'
+    tel: "\r\n                    Tel/fax: 91 418 26 88"
+    email: gdk@goleniow.pl
+    www: null
+    slogan: null
+    target: null
+  House_36:
+    name: 'Gryficki Dom Kultury'
+    Region: Region_1
+    city: 'Gryfice,'
+    zipCode: 72-300
+    street: 'Niepodległości 53'
+    tel: "\r\n                    Tel.: 91 384 26 88"
+    email: infogdk@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_37:
+    name: 'Gryfiński Dom Kultury'
+    Region: Region_1
+    city: 'Gryfino,'
+    zipCode: 74-100
+    street: 'Szczecińska 17'
+    tel: "\r\n                    Tel.: 91 416 25 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_39:
+    name: 'Karliński Ośrodek Kultury'
+    Region: Region_1
+    city: 'Karlino,'
+    zipCode: 78-230
+    street: 'Szczecińska 6'
+    tel: "\r\n                    Tel/fax: 94 311 77 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_41:
+    name: 'Kolejarz. Dom Kultury'
+    Region: Region_1
+    city: 'Stargard Szczeciński,'
+    zipCode: 73-110
+    street: 'Szczecińska 17'
+    tel: "\r\n                    Tel/fax: 91 573 88 88"
+    email: dkstargard@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_42:
+    name: 'Łobeski Dom Kultury'
+    Region: Region_1
+    city: 'Łobez,'
+    zipCode: 73-150
+    street: 'Niepodległości 52'
+    tel: "\r\n                    Tel/fax: 91 397 45 71"
+    email: lobez-ldk@home.pl
+    www: null
+    slogan: null
+    target: null
+  House_43:
+    name: 'Miejski Dom Kultury'
+    Region: Region_1
+    city: 'Świnoujście,'
+    zipCode: 72-602
+    street: 'Wojska Polskiego 1 lok. 1'
+    tel: "\r\n                    Tel/fax: 91 321 59 49"
+    email: sekretariat@mdk.swinoujscie.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_44:
+    name: 'Miejski Dom Kultury. Filia'
+    Region: Region_1
+    city: 'Świnoujście,'
+    zipCode: 72-605
+    street: 'Zalewowa 40'
+    tel: "\r\n                    Tel.: 91 322 17 27"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_45:
+    name: 'Miejski Dom Kultury. Filia Warszów'
+    Region: Region_1
+    city: 'Świnoujście,'
+    zipCode: 72-602
+    street: 'Sosnowa 18'
+    tel: "\r\n                    Tel.: 91 321 52 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_46:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Koszalin,'
+    zipCode: 75-001
+    street: 'Zwycięstwa 105'
+    tel: "\r\n                    Tel.: 94 347 57 00"
+    email: sekretariat@ck105.koszalin.pl
+    www: null
+    slogan: null
+    target: null
+  House_47:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Moryń,'
+    zipCode: 74-503
+    street: 'Szeroka 12'
+    tel: "\r\n                    Tel.: 91 414 61 23"
+    email: mokmoryn@gmail.com
+    www: null
+    slogan: null
+    target: null
+  House_48:
+    name: 'Miejski Ośrodek Kultury w Policach. Filia'
+    Region: Region_1
+    city: 'Przęsocin,'
+    zipCode: 72-010
+    street: 'Centralna 20a'
+    tel: "\r\n                    Tel.: 91 317 58 86"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_49:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-830
+    street: 'Goleniowska 67'
+    tel: "\r\n                    Tel/fax: 91 469 16 39"
+    email: mok.szczecin@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_50:
+    name: 'Miejski Ośrodek Sportu i Kultury'
+    Region: Region_1
+    city: 'Dziwnów,'
+    zipCode: 72-420
+    street: 'Reymonta 10'
+    tel: "\r\n                    Tel/fax: 91 381 32 27"
+    email: gok@dziwnow.pl
+    www: null
+    slogan: null
+    target: null
+  House_59:
+    name: 'Międzynarodowy Dom Kultury'
+    Region: Region_1
+    city: 'Międzyzdroje,'
+    zipCode: 72-500
+    street: 'Bohaterów Warszawy 20'
+    tel: "\r\n                    Tel/fax: 91 328 26 00"
+    email: 'miedzynarodowy.dom.<span class="hitHighlight">kult'
+    www: null
+    slogan: null
+    target: null
+  House_61:
+    name: 'Samorządowa Agencja Promocji i Kultury'
+    Region: Region_1
+    city: 'Szczecinek,'
+    zipCode: 78-400
+    street: 'Kilińskiego 1'
+    tel: "\r\n                    Tel.: 94 372 36 97"
+    email: sapik@sapik.pl
+    www: null
+    slogan: null
+    target: null
+  House_64:
+    name: 'Myśliborski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Myślibórz,'
+    zipCode: 74-300
+    street: 'Klasztorna 3'
+    tel: "\r\n                    Tel/fax: 95 747 23 64"
+    email: mok@bono.net.pl
+    www: null
+    slogan: null
+    target: null
+  House_65:
+    name: 'Nowogardzki Dom Kultury'
+    Region: Region_1
+    city: 'Nowogard,'
+    zipCode: 72-200
+    street: 'pl. Wolności 7'
+    tel: "\r\n                    Tel.: 91 392 62 83"
+    email: ndk@smj.pl
+    www: null
+    slogan: null
+    target: null
+  House_66:
+    name: 'Ośrodek Kultury'
+    Region: Region_1
+    city: 'Mirosławiec,'
+    zipCode: 78-650
+    street: 'Parkowa 1'
+    tel: "\r\n                    Tel/fax: 67 259 59 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_67:
+    name: 'Ośrodek Kultury Gminy Wolin'
+    Region: Region_1
+    city: 'Wolin,'
+    zipCode: 72-510
+    street: 'Zamkowa 23'
+    tel: "\r\n                    Tel/fax: 91 322 08 73"
+    email: mok@wolin.pl
+    www: null
+    slogan: null
+    target: null
+  House_68:
+    name: 'Ośrodek Kultury i Sportu'
+    Region: Region_1
+    city: 'Maszewo,'
+    zipCode: 72-130
+    street: 'Szkolna 1'
+    tel: "\r\n                    Tel/fax: 91 418 77 53"
+    email: okgim@hot.pl
+    www: www.okis.maszewo.pl
+    slogan: null
+    target: null
+  House_69:
+    name: 'Ośrodek Kultury i Turystyki'
+    Region: Region_1
+    city: 'Barwice,'
+    zipCode: 78-460
+    street: 'Wojska Polskiego 15'
+    tel: "\r\n                    Tel.: 94 373 60 25"
+    email: okit-p@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_70:
+    name: 'Pałac Młodzieży. Pomorskie Centrum Edukacji'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-327
+    street: 'al. Piastów 7'
+    tel: "\r\n                    Tel.: 91 422 52 61"
+    email: palac@palac.szczecin.pl
+    www: null
+    slogan: null
+    target: null
+  House_71:
+    name: 'Pałacyk pod Lwami. Gryfiński Dom Kultury'
+    Region: Region_1
+    city: 'Gryfino,'
+    zipCode: 74-100
+    street: 'Chrobrego 48'
+    tel: "\r\n                    Tel/fax: 91 416 29 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_72:
+    name: 'Pyrzycki Dom Kultury'
+    Region: Region_1
+    city: 'Pyrzyce,'
+    zipCode: 74-200
+    street: 'pl. Wolności 3'
+    tel: "\r\n                    Tel/fax: 91 570 19 95"
+    email: pdk@pyrzyce.net.pl
+    www: null
+    slogan: null
+    target: null
+  House_73:
+    name: 'Regionalne Centrum Kultury'
+    Region: Region_1
+    city: 'Kołobrzeg,'
+    zipCode: 78-100
+    street: 'Solna 1'
+    tel: "\r\n                    Tel/fax: 94 352 49 49"
+    email: mokkol@poczta.wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_74:
+    name: 'Regionalny Ośrodek Badań i Dokumentacji Zabytków'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-562
+    street: 'pl. Orła Białego 1'
+    tel: "\r\n                    Tel.: 91 433 61 67"
+    email: robidz.szczecin@kobidz.pl
+    www: null
+    slogan: null
+    target: null
+  House_75:
+    name: 'Samorządowa Agencja Promocji i Kultury'
+    Region: Region_1
+    city: 'Szczecinek,'
+    zipCode: 78-400
+    street: 'kard. Wyszyńskiego 65'
+    tel: "\r\n                    Tel/fax: 94 712 83 02"
+    email: sapik@sapik.pl
+    www: null
+    slogan: null
+    target: null
+  House_76:
+    name: 'Saniga. Dom Kultury'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 71-450
+    street: 'Chopina 22'
+    tel: "\r\n                    Tel.: 91 452 53 33"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_77:
+    name: 'Sławieński Dom Kultury'
+    Region: Region_1
+    city: 'Sławno,'
+    zipCode: 76-100
+    street: 'Cieszkowskiego 2'
+    tel: "\r\n                    Tel/fax: 59 810 76 70"
+    email: sok-slawno@onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_78:
+    name: 'Słoneczna Gromada. Ognisko pracy pozaszkolnej'
+    Region: Region_1
+    city: 'Barlinek,'
+    zipCode: 74-320
+    street: 'Leśna 1'
+    tel: "\r\n                    Tel.: 95 746 26 52"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_79:
+    name: 'Słowianin. Dom kultury'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-211
+    street: 'Korzeniowskiego 2'
+    tel: "\r\n                    Tel.: 91 434 56 55"
+    email: biuro@slowianin.org
+    www: null
+    slogan: null
+    target: null
+  House_80:
+    name: 'Słowianin. Dom Kultury'
+    Region: Region_1
+    city: 'Świnoujście,'
+    zipCode: 72-602
+    street: 'Matejki 43'
+    tel: "\r\n                    Tel/fax: 91 327 43 65"
+    email: domkultury@slowianin.pl
+    www: null
+    slogan: null
+    target: null
+  House_82:
+    name: 'Świdwiński Ośrodek Kultury'
+    Region: Region_1
+    city: 'Świdwin,'
+    zipCode: 78-300
+    street: 'Niedziałkowskiego 17'
+    tel: "\r\n                    Tel.: 94 365 22 77"
+    email: zamek@swidwin.mns.pl
+    www: null
+    slogan: null
+    target: null
+  House_93:
+    name: 'Trzcińskie Centrum Kultury'
+    Region: Region_1
+    city: 'Trzcińsko-Zdrój,'
+    zipCode: 74-510
+    street: 'Młyńska 4'
+    tel: "\r\n                    Tel/fax: 91 414 80 43"
+    email: tck@interia.eu
+    www: null
+    slogan: null
+    target: null
+  House_94:
+    name: 'Trzebiatowski Ośrodek Kultury'
+    Region: Region_1
+    city: 'Trzebiatów,'
+    zipCode: 72-320
+    street: 'Wojska Polskiego 67'
+    tel: "\r\n                    Tel.: 91 387 26 14"
+    email: tok@trzebiatow.pl
+    www: null
+    slogan: null
+    target: null
+  House_96:
+    name: 'Wałeckie Centrum Kultury'
+    Region: Region_1
+    city: 'Wałcz,'
+    zipCode: 78-600
+    street: 'Zesłańców Sybiru 3'
+    tel: "\r\n                    Tel.: 67 381 95 53"
+    email: wck.sekretariat@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_104:
+    name: 'Wspólny Dom. SM. Dom kultury'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 71-544
+    street: 'św. Marcina 1'
+    tel: "\r\n                    Tel.: 91 422 14 80"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_105:
+    name: 'Zamek Książąt Pomorskich'
+    Region: Region_1
+    city: 'Szczecin,'
+    zipCode: 70-540
+    street: 'Korsarzy 34'
+    tel: "\r\n                    Tel.: 91 433 88 41"
+    email: zamek@zamek.szczecin.pl
+    www: null
+    slogan: null
+    target: null
+  House_106:
+    name: 'Złocieniecki Ośrodek Kultury'
+    Region: Region_1
+    city: 'Złocieniec,'
+    zipCode: 78-520
+    street: 'Połczyńska 6'
+    tel: "\r\n                    Tel.: 94 367 14 55"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_107:
+    name: 'Dzierzgoński Ośrodek Kultury'
+    Region: Region_2
+    city: 'Dzierzgoń,'
+    zipCode: 82-440
+    street: 'Krzywa 16'
+    tel: "\r\n                    Tel/fax: 55 276 26 47"
+    email: dok.dzierzgon@wp.pl
+    www: www.dokdzierzgon.pl
+    slogan: null
+    target: null
+  House_108:
+    name: 'Ośrodek Kultury, Sportu i Turystyki'
+    Region: Region_2
+    city: 'Puck,'
+    zipCode: 84-100
+    street: '10 Lutego 29'
+    tel: "\r\n                    Tel/fax: 58 673 16 55"
+    email: oksit@oksit.puck.pl
+    www: www.gmina.puck.pl
+    slogan: null
+    target: null
+  House_109:
+    name: 'Centrum Kultury i Sztuki'
+    Region: Region_2
+    city: 'Tczew,'
+    zipCode: 83-110
+    street: 'kard. Wyszyńskiego 10'
+    tel: "\r\n                    Tel.: 58 531 07 07"
+    email: ckis@ckis.tczew.pl
+    www: www.ckis.tczew.pl
+    slogan: null
+    target: null
+  House_110:
+    name: 'Czarneńskie Centrum Kultury'
+    Region: Region_2
+    city: 'Czarne,'
+    zipCode: 77-330
+    street: 'Kolejowa 14'
+    tel: "\r\n                    Tel.: 59 833 29 11"
+    email: dkczarne@wp.pl
+    www: www.cck.czarne.pl
+    slogan: null
+    target: null
+  House_111:
+    name: 'Gminne Centrum Kultury, Sportu i Rekreacji'
+    Region: Region_2
+    city: 'Szemud,'
+    zipCode: 84-217
+    street: 'Szkolna 4a'
+    tel: "\r\n                    Tel/fax: 58 676 14 62"
+    email: gckszemud@wp.pl
+    www: www.szemud.pl
+    slogan: null
+    target: null
+  House_112:
+    name: 'Miejski Dom Kultury'
+    Region: Region_2
+    city: 'Człuchów,'
+    zipCode: 77-300
+    street: 'Traugutta 2'
+    tel: "\r\n                    Tel.: 59 834 11 32"
+    email: czluchow_mdk@wp.pl
+    www: www.mdk.czluchow.pl
+    slogan: ' Zakres działalności: Miejski Dom Kultury w Człuchowie prowadzi działalność w zakresie rozwijania amatorskiego ruchu artystycznego, rękodzieła...'
+    target: null
+  House_113:
+    name: 'Żuławski Ośrodek Kultury i Sportu'
+    Region: Region_2
+    city: 'Cedry Wielkie,'
+    zipCode: 74-520
+    street: 'Osadników Wojskowych 41'
+    tel: "\r\n                    Tel/fax: 58 683 66 35"
+    email: zokis@cedry-wielkie.pl
+    www: www.zokis.eu
+    slogan: null
+    target: null
+  House_116:
+    name: 'Brodwino. Osiedlowe Centrum Kultury'
+    Region: Region_2
+    city: 'Sopot,'
+    zipCode: 81-881
+    street: 'Kolberga 9'
+    tel: "\r\n                    Tel.: 58 551 93 00 we"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_117:
+    name: 'Bufet s.c.'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-227
+    street: 'Do Studzienki 34 A'
+    tel: "\r\n                    Tel.: 58 341 76 57"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_118:
+    name: 'Bytowskie Centrum Kultury'
+    Region: Region_2
+    city: 'Bytów,'
+    zipCode: 77-100
+    street: 'Wojska Polskiego 12'
+    tel: "\r\n                    Tel.: 59 822 25 44"
+    email: sekretariat@bck-bytow.pl
+    www: null
+    slogan: null
+    target: null
+  House_119:
+    name: 'Cebulka. Gdański Archipelag Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-506
+    street: 'Dworska 29a'
+    tel: "\r\n                    Tel/fax: 58 343 46 91"
+    email: cebulka@gak.gda.pl
+    www: null
+    slogan: null
+    target: null
+  House_120:
+    name: 'Centrum Hewelianum'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-802
+    street: '3 Maja 9a'
+    tel: "\r\n                    Tel.: 58 300 08 42"
+    email: twierdza@grodzisko.pl
+    www: null
+    slogan: null
+    target: null
+  House_121:
+    name: 'Centrum Kultury i Sportu im. Józefa Wybickiego'
+    Region: Region_2
+    city: 'Kościerzyna,'
+    zipCode: 83-400
+    street: 'Długa 31'
+    tel: "\r\n                    Tel.: 58 686 23 63"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_122:
+    name: 'Centrum Kultury, Sportu i Turystyki'
+    Region: Region_2
+    city: 'Debrzno,'
+    zipCode: 77-310
+    street: 'Wojska Polskiego 2'
+    tel: "\r\n                    Tel/fax: 59 833 51 65"
+    email: ckstdebrzno@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_123:
+    name: 'Centrum Międzynarodowych Spotkań'
+    Region: Region_2
+    city: 'Tuchomie,'
+    zipCode: 77-133
+    street: 'Szkolna 4'
+    tel: "\r\n                    Tel/fax: 59 821 56 89"
+    email: cms@tuchomie.pl
+    www: null
+    slogan: null
+    target: null
+  House_124:
+    name: 'Chojnicki Dom Kultury'
+    Region: Region_2
+    city: 'Chojnice,'
+    zipCode: 89-600
+    street: 'Swarożyca 1'
+    tel: "\r\n                    Tel/fax: 52 397 22 15"
+    email: chdk@chojnice.pl
+    www: null
+    slogan: null
+    target: null
+  House_125:
+    name: 'Dance Vision TV International. Europejskie centrum estrady i tańca'
+    Region: Region_2
+    city: 'Koszwały,'
+    zipCode: 83-011
+    street: 'Jesionowa 1'
+    tel: "\r\n                    Tel/fax: 58 306 21 33"
+    email: dancevisiontv@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_126:
+    name: 'Dom Kultury Powszechnej Spółdzielni Mieszkaniowej Przymorze'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-389
+    street: 'Śląska 66b'
+    tel: "\r\n                    Tel.: 58 553 40 21"
+    email: domkulturypsm@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_127:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Gdynia,'
+    zipCode: 81-504
+    street: 'Łowicka 51'
+    tel: "\r\n                    Tel.: 58 664 73 77"
+    email: info@centrumkulturygdynia.org
+    www: null
+    slogan: null
+    target: null
+  House_128:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Karsin,'
+    zipCode: 83-440
+    street: 'Strażacka 1'
+    tel: "\r\n                    Tel.: 58 687 31 18"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_129:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Osowo,'
+    zipCode: 83-440
+    street: 'Wielewska 46'
+    tel: "\r\n                    Tel.: 58 687 31 78"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_130:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Przechlewo,'
+    zipCode: 77-320
+    street: 'Młyńska 11'
+    tel: "\r\n                    Tel.: 59 833 45 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_131:
+    name: 'Dom Kultury Spółdzielni Mieszkaniowej Janowo'
+    Region: Region_2
+    city: 'Rumia,'
+    zipCode: 84-230
+    street: 'Pomorska 11'
+    tel: "\r\n                    Tel.: 58 679 57 55"
+    email: mk@smj-rumia.pl
+    www: null
+    slogan: null
+    target: null
+  House_132:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Subkowy,'
+    zipCode: 83-120
+    street: 'Wybickiego 22'
+    tel: "\r\n                    Tel.: 58 536 85 23"
+    email: dkulturysub@gmail.com
+    www: null
+    slogan: null
+    target: null
+  House_133:
+    name: 'Dom Kultury'
+    Region: Region_2
+    city: 'Ustka,'
+    zipCode: 76-270
+    street: 'Kosynierów 19'
+    tel: "\r\n                    Tel/fax: 59 814 49 19"
+    email: dk.ustka@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_134:
+    name: 'Dom Strażaka'
+    Region: Region_2
+    city: 'Mikołajki Pomorskie,'
+    zipCode: 82-433
+    street: Szrajbera
+    tel: "\r\n                    Tel.: 55 277 05 98"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_135:
+    name: 'Dworek Artura'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-026
+    street: 'Dworcowa 9'
+    tel: "\r\n                    Tel.: 58 306 66 76 we"
+    email: gak@gda.pl
+    www: null
+    slogan: null
+    target: null
+  House_136:
+    name: 'Gama. Gdanski archipelag Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-534
+    street: 'Starowiejska 16a'
+    tel: "\r\n                    Tel.: 58 346 41 05"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_137:
+    name: 'Gdański Archipelag Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-026
+    street: 'Dworcowa 9'
+    tel: "\r\n                    Tel.: 58 306 59 35"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_138:
+    name: 'Gminna Izba Regionalna im. Remusa'
+    Region: Region_2
+    city: 'Łebno,'
+    zipCode: 84-216
+    street: 'Kartuska 9'
+    tel: "\r\n                    Tel.: 58 676 18 97"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_139:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_2
+    city: 'Cewice,'
+    zipCode: 84-312
+    street: 'Węgrzynowicza 16'
+    tel: "\r\n                    Tel.: 59 861 14 90"
+    email: gck.cewice@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_174:
+    name: 'Kaszubski Dwór. Centrum Kultury'
+    Region: Region_2
+    city: 'Kartuzy,'
+    zipCode: 83-300
+    street: 'Gdańska 15'
+    tel: "\r\n                    Tel/fax: 58 681 29 39"
+    email: 'biuro@centrum.<span class="hitHighlight">kultury</'
+    www: null
+    slogan: null
+    target: null
+  House_175:
+    name: 'Kaszuby. Regionalny Zespół Pieśni i Tańca'
+    Region: Region_2
+    city: 'Kartuzy,'
+    zipCode: 83-300
+    street: 'Gdańska 15'
+    tel: "\r\n                    Tel.: 58 681 46 47"
+    email: kaszuby-kartuzy@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_177:
+    name: 'Centrum kultury i promocji'
+    Region: Region_2
+    city: 'Władysławowo,'
+    zipCode: 84-120
+    street: 'Hallera 19'
+    tel: "\r\n                    Tel.: 58 674 05 22"
+    email: promocja@wladyslawowo.pl
+    www: null
+    slogan: null
+    target: null
+  House_178:
+    name: 'Kwidzyńskie Centrum Kultury'
+    Region: Region_2
+    city: 'Kwidzyn,'
+    zipCode: 82-500
+    street: '11 Listopada 13'
+    tel: "\r\n                    Tel.: 55 279 35 28"
+    email: kck@ckj.edu.pl
+    www: www.kck.ckj.edu.pl
+    slogan: null
+    target: null
+  House_181:
+    name: 'Miejski Dom Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-026
+    street: 'Dworcowa 9'
+    tel: "\r\n                    Tel/fax: 58 309 04 54"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_182:
+    name: 'Miejski Dom Kultury'
+    Region: Region_2
+    city: 'Malbork,'
+    zipCode: 82-200
+    street: 'pl. Słowiański 18'
+    tel: "\r\n                    Tel.: 55 272 38 52"
+    email: biuro@mdk.malbork.pl
+    www: null
+    slogan: null
+    target: null
+  House_183:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_2
+    city: 'Pelplin,'
+    zipCode: 83-130
+    street: 'Kościuszki 2a'
+    tel: "\r\n                    Tel/fax: 58 536 14 52"
+    email: mok@pelplin.pl
+    www: null
+    slogan: null
+    target: null
+  House_184:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_2
+    city: 'Skórcz,'
+    zipCode: 83-220
+    street: '27 Stycznia 4'
+    tel: "\r\n                    Tel.: 58 582 47 81"
+    email: mokskorcz1@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_185:
+    name: 'Miejski Ośrodek Kultury, Sportu i Rekreacji'
+    Region: Region_2
+    city: 'Jastarnia,'
+    zipCode: 84-140
+    street: 'ks. Stefańskiego 5'
+    tel: "\r\n                    Tel/fax: 58 675 23 40"
+    email: promocja@jastarnia.pl
+    www: null
+    slogan: null
+    target: null
+  House_186:
+    name: 'Miejski Ośrodek Kultury, Sportu i Rekreacji'
+    Region: Region_2
+    city: 'Puck,'
+    zipCode: 84-100
+    street: 'Lipowa 3c'
+    tel: "\r\n                    Tel.: 58 673 29 51"
+    email: moksir-puck@home.pl
+    www: null
+    slogan: null
+    target: null
+  House_195:
+    name: 'Nadbałtyckie Centrum Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-851
+    street: 'Korzenna 33/35'
+    tel: "\r\n                    Tel.: 58 301 10 51"
+    email: sekretariat@nck.org.pl
+    www: null
+    slogan: null
+    target: null
+  House_196:
+    name: 'Nowostawski Ośrodek Kultury'
+    Region: Region_2
+    city: 'Nowy Staw,'
+    zipCode: 82-230
+    street: 'Jana Pawła II 2'
+    tel: "\r\n                    Tel/fax: 55 271 51 56"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_197:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Czersk,'
+    zipCode: 89-650
+    street: 'Szkolna 11'
+    tel: "\r\n                    Tel/fax: 52 398 47 40"
+    email: okaczersk@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_198:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Dziemiany,'
+    zipCode: 83-425
+    street: '8 Marca 3'
+    tel: "\r\n                    Tel.: 58 688 00 19"
+    email: oka@dziemiany.pl
+    www: null
+    slogan: null
+    target: null
+  House_199:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Łąg,'
+    zipCode: 89-652
+    street: 'Chojnicka 30'
+    tel: "\r\n                    Tel.: 52 398 87 18"
+    email: '<span class="hitHighlight">kultura</span>.ok@wp.pl'
+    www: null
+    slogan: null
+    target: null
+  House_200:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Rytel,'
+    zipCode: 89-642
+    street: 'ks. Kowalkowskiego 11'
+    tel: "\r\n                    Tel/fax: 52 398 52 46"
+    email: okrytel@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_201:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Stary Targ,'
+    zipCode: 82-410
+    street: '22 Lipca 1'
+    tel: "\r\n                    Tel.: 55 277 62 10"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_202:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Studzienice,'
+    zipCode: 77-143
+    street: 'Brzozowa 5'
+    tel: "\r\n                    Tel.: 59 821 60 90"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_203:
+    name: 'Ośrodek Kultury'
+    Region: Region_2
+    city: 'Ugoszcz,'
+    zipCode: 77-100
+    street: 12b
+    tel: "\r\n                    Tel.: 59 821 47 88"
+    email: wdk_ugoszcz@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_204:
+    name: 'Pałac Młodzieży im. Obrońców Poczty Polskiej'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-826
+    street: 'Ogarna 56'
+    tel: "\r\n                    Tel.: 58 301 60 07"
+    email: palacmlo@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_206:
+    name: 'Powiatowe Ognisko Artystyczne'
+    Region: Region_2
+    city: 'Lębork,'
+    zipCode: 84-300
+    street: 'Legionów Polskich 35'
+    tel: "\r\n                    Tel/fax: 59 862 23 94"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_207:
+    name: 'Powiatowe Ognisko Plastyczne'
+    Region: Region_2
+    city: 'Malbork,'
+    zipCode: 82-200
+    street: 'Jagiellońska 78a'
+    tel: "\r\n                    Tel.: 55 272 26 68"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_209:
+    name: 'Powiatowy Ośrodek Edukacji, Kultury, Sportu i Turystyki'
+    Region: Region_2
+    city: 'Człuchów,'
+    zipCode: 77-300
+    street: 'os. Wazów 1'
+    tel: "\r\n                    Tel/fax: 59 834 53 66"
+    email: sekretariat@poeksit.czluchow.org.pl
+    www: null
+    slogan: null
+    target: null
+  House_210:
+    name: 'Pracownia ceramiczna Słupskiego Ośrodka Kultury'
+    Region: Region_2
+    city: 'Słupsk,'
+    zipCode: 76-200
+    street: 'Wojska Polskiego 10a'
+    tel: "\r\n                    Tel.: 59 842 47 07"
+    email: sekretariat@sok.slupsk.pl
+    www: null
+    slogan: null
+    target: null
+  House_212:
+    name: 'Rosyjskie Centrum Nauki i Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-827
+    street: 'Długa 35'
+    tel: "\r\n                    Tel/fax: 58 301 95 16"
+    email: ronik_gd@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_213:
+    name: 'Słupski Ośrodek Kultury'
+    Region: Region_2
+    city: 'Słupsk,'
+    zipCode: 76-200
+    street: 'Braci Gierymskich 1'
+    tel: "\r\n                    Tel.: 59 845 64 41"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_214:
+    name: 'Społeczne Ognisko Artystyczne'
+    Region: Region_2
+    city: 'Chojnice,'
+    zipCode: 89-600
+    street: 'Grunwaldzka 6'
+    tel: "\r\n                    Tel.: 52 397 29 23"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_215:
+    name: 'Spółdzielczy Dom Kultury Spółdzielni Mieszkaniowej Kociewie'
+    Region: Region_2
+    city: 'Starogard Gdański,'
+    zipCode: 83-200
+    street: 'Reymonta 1'
+    tel: "\r\n                    Tel.: 58 562 89 40"
+    email: spoldzielcza1@02.pl
+    www: null
+    slogan: null
+    target: null
+  House_216:
+    name: 'Starogardzkie Centrum Kultury'
+    Region: Region_2
+    city: 'Starogard Gdański,'
+    zipCode: 83-200
+    street: 'al. Jana Pawła II 3'
+    tel: "\r\n                    Tel.: 58 561 29 45"
+    email: sck@sck.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_217:
+    name: 'Studio praktyk teatralnych'
+    Region: Region_2
+    city: 'Gdynia,'
+    zipCode: 81-356
+    street: 'Starowiejska 1 lok. 102'
+    tel: "\r\n                    Kom.: 602 85 76 04"
+    email: maszoperia@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_218:
+    name: 'Suchostrzygi. Spółdzielczy Dom Kultury'
+    Region: Region_2
+    city: 'Tczew,'
+    zipCode: 83-110
+    street: 'Żwirki 49'
+    tel: "\r\n                    Tel.: 58 531 05 81"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_219:
+    name: 'Sztumskie Centrum Kultury'
+    Region: Region_2
+    city: 'Sztum,'
+    zipCode: 82-400
+    street: 'Galla Anonima 16'
+    tel: "\r\n                    Tel/fax: 55 277 23 06"
+    email: sck@data.pl
+    www: null
+    slogan: null
+    target: null
+  House_221:
+    name: 'Wejherowskie Centrum Kultury'
+    Region: Region_2
+    city: 'Wejherowo,'
+    zipCode: 84-200
+    street: 'Jana III Sobieskiego 255'
+    tel: "\r\n                    Tel.: 58 672 27 75"
+    email: wck@oknet.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_237:
+    name: 'Winda. Gdański Archipelag Kultury'
+    Region: Region_2
+    city: 'Gdańsk,'
+    zipCode: 80-406
+    street: 'Racławicka 17'
+    tel: "\r\n                    Tel/fax: 58 344 90 53"
+    email: winda@mdk.gda.pl
+    www: null
+    slogan: null
+    target: null
+  House_238:
+    name: 'Zaiks. Dom pracy twórczej'
+    Region: Region_2
+    city: 'Ustka,'
+    zipCode: 76-270
+    street: 'Mickiewicza 9'
+    tel: "\r\n                    Tel.: 59 814 43 93"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_240:
+    name: 'Żuławski Ośrodek Kultury'
+    Region: Region_2
+    city: 'Nowy Dwór Gdański,'
+    zipCode: 82-100
+    street: 'Sikorskiego 21'
+    tel: "\r\n                    Tel/fax: 55 247 22 30"
+    email: 'zulawski-osrodek-<span class="hitHighlight">kultur'
+    www: null
+    slogan: null
+    target: null
+  House_241:
+    name: 'Mazowieckie Centrum Kultury i Sztuki'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-139
+    street: 'Elektoralna 12'
+    tel: "\r\n                    Tel.: 22 586 42 00"
+    email: mckis@mckis.waw.pl
+    www: www.mckis.waw.pl
+    slogan: '...działalności: Mazowieckie Centrum Kultury i Sztuki – instytucję kultury Samorządu Województwa...w tym 100 wystaw sztuki i przedsięwzięć plastycznych...100 instytucjami kultury. W 2008 roku uczestniczyliśmy...'
+    target: null
+  House_242:
+    name: 'Praga. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-474
+    street: 'Dąbrowszczaków 2'
+    tel: "\r\n                    Tel.: 22 618 41 51"
+    email: dk@dkpraga.pl
+    www: www.dkpraga.pl
+    slogan: '...planuje się by dom kultury działał przez 7 dni w...Grupą docelową domu kultury są osoby od wieku przedszkolnego...aż po seniorów. Dom kultury jest otwarty dla rodzin, aby...'
+    target: null
+  House_243:
+    name: 'Dom Kultury Włochy'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-479
+    street: 'Bolesława Chrobrego 27'
+    tel: "\r\n                    Tel/fax: 22 863 73 23"
+    email: dkw@dkwlochy.pl
+    www: www.dkwlochy.pl
+    slogan: ' Zakres działalności: Dom Kultury „Włochy” proponuje czynne uczestnictwo w życiu kulturalnym wszystkim niezależnie od wieku. Dzieci...'
+    target: null
+  House_245:
+    name: 'Dom Kultury w Kałuszynie'
+    Region: Region_3
+    city: 'Kałuszyn,'
+    zipCode: 05-310
+    street: 'Warszawska 45'
+    tel: "\r\n                    Tel.: 25 757 62 10"
+    email: dkkaluszyn@op.pl
+    www: www.dkkaluszyn.pl
+    slogan: '...działalności: Dom Kultury w Kałuszynie - Samorządowa...Instytytucja Upowszechniania Kultury. Do zadań Domu Kultury należą: - rozpoznawanie...oraz zainteresowania sztuką, - prezentacja i promocja...'
+    target: null
+  House_246:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_3
+    city: 'Dąbrówka,'
+    zipCode: 05-252
+    street: 'Kościuszki 14a'
+    tel: "\r\n                    Tel/fax: 29 757 85 12"
+    email: sekretariat@gckdabrowka.net.pl
+    www: www.gckdabrowka.net.pl
+    slogan: null
+    target: null
+  House_247:
+    name: 'Miejskie Centrum Kultury, Sportu i Rekreacji'
+    Region: Region_3
+    city: 'Raciąż,'
+    zipCode: 09-140
+    street: 'Parkowa 14'
+    tel: "\r\n                    Tel/fax: 23 679 10 78"
+    email: mckraciaz@op.pl
+    www: www.mckraciaz.pl
+    slogan: null
+    target: null
+  House_249:
+    name: 'Centrum Promocji Kultury w Dzielnicy Praga Południe m. st. Warszawy'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-833
+    street: 'Podskarbińska 2'
+    tel: "\r\n                    Tel.: 22 517 65 75<span clas"
+    email: sekretariat@cpk.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_251:
+    name: 'Miejski Dom Kultury'
+    Region: Region_3
+    city: 'Mława,'
+    zipCode: 06-500
+    street: 'Stary Rynek 13'
+    tel: "\r\n                    Tel.: 23 654 35 85<span clas"
+    email: mdk.mlawa@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_252:
+    name: 'Muranów. Warszawski Ośrodek Rekreacji Ruchowej i Edukacji'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-190
+    street: 'Lewartowskiego 5'
+    tel: "\r\n                    Tel/fax: 22 831 65 60<span c"
+    email: biuro@tkkf.waw.pl
+    www: null
+    slogan: null
+    target: null
+  House_255:
+    name: 'Akademia Sztuki i Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-116
+    street: 'al. Jana Pawła II 36c'
+    tel: "\r\n                    Tel/fax: 22 654 30 40"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_256:
+    name: 'Amfiteatr. Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Radom,'
+    zipCode: 26-610
+    street: 'Parkowa 1'
+    tel: "\r\n                    Tel/fax: 48 364 29 68"
+    email: amfiteatr.radom@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_260:
+    name: 'Bielański Ośrodek Kultury. Filia'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-932
+    street: 'Estrady 112'
+    tel: "\r\n                    Tel.: 22 835 54 44"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_261:
+    name: 'Bielański Ośrodek Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 61-913
+    street: 'Goldoniego 1'
+    tel: "\r\n                    Tel.: 22 834 65 47"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_262:
+    name: 'Borki. Dom kultury'
+    Region: Region_3
+    city: 'Radom,'
+    zipCode: 26-612
+    street: 'Sucha 2'
+    tel: "\r\n                    Tel.: 48 331 24 46"
+    email: dk.borki@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_263:
+    name: 'British Council'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-697
+    street: 'Aleje Jerozolimskie 59'
+    tel: "\r\n                    Tel.: 22 695 59 00"
+    email: bc.warsaw@britishcouncil.pl
+    www: null
+    slogan: null
+    target: null
+  House_264:
+    name: 'Bułgarski Instytut Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-540
+    street: 'Aleje Ujazdowskie 33/35'
+    tel: "\r\n                    Tel.: 22 620 25 20"
+    email: sekretariat@bikpolska.pl
+    www: null
+    slogan: null
+    target: null
+  House_265:
+    name: 'Centralny Dom Qultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-066
+    street: 'Burakowska 12'
+    tel: "\r\n                    Tel/fax: 22 636 83 00"
+    email: cdq@cdq.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_266:
+    name: 'Centrum Edukacyjne Kultury Żydowskiej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-104
+    street: 'Twarda 6'
+    tel: "\r\n                    Tel/fax: 22 654 31 60"
+    email: center@jewish.org.pl
+    www: null
+    slogan: null
+    target: null
+  House_267:
+    name: 'Centrum Kultury'
+    Region: Region_3
+    city: 'Tłuszcz,'
+    zipCode: 05-240
+    street: 'Szkolna 1'
+    tel: "\r\n                    Tel.: 29 757 31 34"
+    email: ck@cktluszcz.net
+    www: null
+    slogan: null
+    target: null
+  House_268:
+    name: 'Centrum Kultury i Inicjatyw Obywatelskich'
+    Region: Region_3
+    city: 'Podkowa Leśna,'
+    zipCode: 05-807
+    street: 'Lilpopa 18'
+    tel: "\r\n                    Tel.: 22 729 13 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_269:
+    name: 'Centrum Kultury i Inicjatyw Obywatelskich'
+    Region: Region_3
+    city: 'Podkowa Leśna,'
+    zipCode: 05-807
+    street: 'Świerkowa 1'
+    tel: "\r\n                    Tel/fax: 22 758 94 41"
+    email: mokpodkowa@mokpodkowa.pl
+    www: null
+    slogan: null
+    target: null
+  House_270:
+    name: 'Centrum Kultury i Sztuki'
+    Region: Region_3
+    city: 'Siedlce,'
+    zipCode: 08-110
+    street: 'ks. bpa Świrskiego 31'
+    tel: "\r\n                    Tel.: 25 644 68 00"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_272:
+    name: 'Centrum Kultury Kurpiowskiej'
+    Region: Region_3
+    city: 'Kadzidło,'
+    zipCode: 07-420
+    street: 'Kościuszki 6'
+    tel: "\r\n                    Tel.: 29 761 80 26"
+    email: centrumkurpiowskie@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_273:
+    name: 'Centrum Kultury Regionalnej'
+    Region: Region_3
+    city: 'Grójec,'
+    zipCode: 05-600
+    street: 'Piłsudskiego 1'
+    tel: "\r\n                    Tel.: 48 664 21 62"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_274:
+    name: 'Centrum Sportu i Kultury'
+    Region: Region_3
+    city: 'Garwolin,'
+    zipCode: 08-400
+    street: 'Nadwodna 1'
+    tel: "\r\n                    Tel.: 25 682 20 51"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_275:
+    name: 'Dom kultury'
+    Region: Region_3
+    city: 'Bieżuń,'
+    zipCode: 09-320
+    street: 'Mławska 5'
+    tel: "\r\n                    Tel.: 23 657 80 04"
+    email: mgog_biezun@vp.pl
+    www: null
+    slogan: null
+    target: null
+  House_276:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Chudek,'
+    zipCode: 07-420
+    street: 36b
+    tel: "\r\n                    Tel.: 29 761 66 85"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_277:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Halinów,'
+    zipCode: 05-074
+    street: '3 Maja 8'
+    tel: "\r\n                    Tel.: 22 783 64 90"
+    email: domkultury@domkulturyhalinow.pl
+    www: null
+    slogan: null
+    target: null
+  House_278:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Iłża,'
+    zipCode: 27-100
+    street: 'os. Staszica 13'
+    tel: "\r\n                    Tel.: 48 616 31 08"
+    email: domkulturyilza@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_279:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Kozienice,'
+    zipCode: 26-900
+    street: 'al. 1 Maja 8'
+    tel: "\r\n                    Tel.: 48 611 07 50"
+    email: kckris@kckris.pl
+    www: null
+    slogan: null
+    target: null
+  House_280:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Laski,'
+    zipCode: 05-891
+    street: 'Południowa 23'
+    tel: "\r\n                    Tel.: 22 752 22 36"
+    email: dkl@izabelin.pl
+    www: null
+    slogan: null
+    target: null
+  House_281:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Łomianki,'
+    zipCode: 05-092
+    street: 'Wiejska 12a'
+    tel: "\r\n                    Tel/fax: 22 751 35 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_282:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Przysucha,'
+    zipCode: 26-400
+    street: 'Radomska 9'
+    tel: "\r\n                    Tel.: 48 675 24 73"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_283:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Puszcza Mariańska'
+    zipCode: 96-330
+    street: null
+    tel: "\r\n                    Tel.: 46 831 81 43"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_284:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Sierpc,'
+    zipCode: 09-200
+    street: 'Piastowska 39'
+    tel: "\r\n                    Tel.: 24 275 24 93"
+    email: dksierpc@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_285:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Zwoleń,'
+    zipCode: 26-700
+    street: 'al. Jana Pawła II 6'
+    tel: "\r\n                    Tel.: 48 676 27 85"
+    email: dkzwolen@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_286:
+    name: 'Dom Kultury'
+    Region: Region_3
+    city: 'Żabia Wola,'
+    zipCode: 96-321
+    street: 'Warszawska 27'
+    tel: "\r\n                    Tel.: 46 857 82 60"
+    email: domkultury@zabiawola.pl
+    www: null
+    slogan: null
+    target: null
+  House_287:
+    name: 'Dom Kultury Śródmieście. Pracownia mikromodelarstwa i historii wojskowej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-542
+    street: 'Mokotowska 55'
+    tel: "\r\n                    Tel.: 22 826 25 56"
+    email: dks4@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_288:
+    name: 'Dom Kultury Śródmieście. Organizacja imprez'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-375
+    street: 'Smolna 9'
+    tel: "\r\n                    Tel.: 22 826 25 86"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_289:
+    name: 'Dom Kultury Śródmieście. Pracownia fotograficzna'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-697
+    street: 'Wilcza 69'
+    tel: "\r\n                    Tel.: 22 826 25 56"
+    email: dks4@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_291:
+    name: 'Dom Ogrodnika. Ogrodniczy dom kultury'
+    Region: Region_3
+    city: 'Jabłonna,'
+    zipCode: 05-110
+    street: 'Modlińska 102'
+    tel: "\r\n                    Tel.: 22 782 47 37"
+    email: gckis@jablonna.pl
+    www: null
+    slogan: null
+    target: null
+  House_292:
+    name: 'Dom Ogrodnika. Dom Kultury'
+    Region: Region_3
+    city: 'Michałów-Reginów,'
+    zipCode: 05-120
+    street: 'Nowodworska 22'
+    tel: "\r\n                    Tel.: 22 784 93 05"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_293:
+    name: 'Dom Pracy Twórczej'
+    Region: Region_3
+    city: 'Radziejowice,'
+    zipCode: 96-325
+    street: 'Sienkiewicza 4'
+    tel: "\r\n                    Tel.: 46 857 71 25"
+    email: palac@palacradz.pl
+    www: null
+    slogan: null
+    target: null
+  House_294:
+    name: 'Dom Pracy Twórczej im. B. Prusa'
+    Region: Region_3
+    city: 'Obory,'
+    zipCode: 05-510
+    street: 'Literatów 2'
+    tel: "\r\n                    Tel.: 22 756 41 06"
+    email: dptobory1@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_295:
+    name: 'Dom Technika Polskiego Koncernu Naftowego Orlen S.A.'
+    Region: Region_3
+    city: 'Płock,'
+    zipCode: 09-400
+    street: 'Kazimierza Wielkiego 41'
+    tel: "\r\n                    Tel.: 24 262 77 36"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_296:
+    name: 'Dorożkarnia. Ośrodek działań artystycznych dla dzieci i młodzieży'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-709
+    street: 'Siekierkowska 28'
+    tel: "\r\n                    Tel/fax: 22 841 91 22"
+    email: biuro@dorozkarnia.pl
+    www: null
+    slogan: null
+    target: null
+  House_297:
+    name: 'Dworek na Długiej. Gminna jednostka kultury'
+    Region: Region_3
+    city: 'Warka,'
+    zipCode: 05-660
+    street: 'Krótka 2'
+    tel: "\r\n                    Tel.: 48 667 22 70"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_298:
+    name: 'Działdowska. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-184
+    street: 'Działdowska 6'
+    tel: "\r\n                    Tel.: 22 632 31 91"
+    email: sekr@dzialdowska.pl
+    www: null
+    slogan: null
+    target: null
+  House_299:
+    name: 'Dzielnicowy Ośrodek Kultury Wola im. S. Żeromskiego'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-425
+    street: 'Obozowa 85'
+    tel: "\r\n                    Tel.: 22 836 22 15"
+    email: info@okwola.pl
+    www: null
+    slogan: null
+    target: null
+  House_300:
+    name: 'Ewtel. Ośrodek Edukacji Twórczej Fundacji Wspierania i Rozwoju Kreatywności'
+    Region: Region_3
+    city: 'Otwock,'
+    zipCode: 05-402
+    street: 'Pogodna 19c'
+    tel: "\r\n                    Tel.: 22 788 33 58"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_302:
+    name: 'Folk Galeria. Kania-Stróżewska K.'
+    Region: Region_3
+    city: 'Grodzisk Mazowiecki,'
+    zipCode: 05-825
+    street: 'Chlewińska 19A'
+    tel: "\r\n                    Kom.: 605 85 41 38"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_303:
+    name: 'Forma. Ośrodek Kultury Spółdzielni Budowlano - Mieszkaniowej Politechnika'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-641
+    street: 'Żuławskiego 4/6'
+    tel: "\r\n                    Tel.: 22 848 00 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_304:
+    name: 'Galeria Bułgarska'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-801
+    street: 'Świętokrzyska 32'
+    tel: "\r\n                    Tel.: 22 624 98 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_305:
+    name: 'Galeria F150. Wyganowski J.'
+    Region: Region_3
+    city: 'Bielawa,'
+    zipCode: 05-520
+    street: 'Ścienna 150'
+    tel: "\r\n                    Tel.: 22 754 31 32"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_306:
+    name: 'Glinianka. Pracownia ceramiki, batiku i witrażu Domu Kultury Włochy'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-154
+    street: 'Astronautów 17 Budynek Szkoły Podstawowej mr 227'
+    tel: "\r\n                    Kom.: 695 64 09 09"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_308:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_3
+    city: 'Łajski,'
+    zipCode: 05-119
+    street: 'Stanisława Moniuszki 2'
+    tel: "\r\n                    Tel.: 22 782 20 02"
+    email: '<span class="hitHighlight">kultura</span>@wielisze'
+    www: null
+    slogan: null
+    target: null
+  House_309:
+    name: 'Gminne Centrum Kultury i Sportu'
+    Region: Region_3
+    city: 'Chotomów,'
+    zipCode: 05-123
+    street: 'Strażacka 8'
+    tel: "\r\n                    Tel.: 22 772 62 38"
+    email: piotr.nowotny@gmail.com
+    www: null
+    slogan: null
+    target: null
+  House_310:
+    name: 'Gminne Centrum Kultury i Tradycji Wsi Gminy Gostynin'
+    Region: Region_3
+    city: 'Białe,'
+    zipCode: 09-504
+    street: '31'
+    tel: "\r\n                    Tel.: 24 235 16 04"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_311:
+    name: 'Gminne Centrum Kultury im. Heleny Wielobyckiej'
+    Region: Region_3
+    city: 'Mrozy,'
+    zipCode: 05-320
+    street: 'Mickiewicza 22'
+    tel: "\r\n                    Tel.: 25 757 44 79"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_376:
+    name: 'Grodziska Alternatywa'
+    Region: Region_3
+    city: 'Grodzisk Mazowiecki,'
+    zipCode: 05-825
+    street: 'Kilińskiego 14'
+    tel: "\r\n                    Tel.: 22 734 79 00"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_377:
+    name: 'Hutnik. Wyszkowski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Wyszków,'
+    zipCode: 07-200
+    street: 'Prosta 7'
+    tel: "\r\n                    Tel.: 29 742 44 48"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_378:
+    name: 'Idalin. Dom Kultury'
+    Region: Region_3
+    city: 'Radom,'
+    zipCode: 26-604
+    street: 'Bluszczowa 4/8'
+    tel: "\r\n                    Tel.: 48 365 27 17"
+    email: dkidalin@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_379:
+    name: 'Imielin. Dom kultury. Spółdzielnia mieszkaniowo - budowlana. Imielin'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-776
+    street: 'Dereniowa 6'
+    tel: "\r\n                    Tel.: 22 641 19 15"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_380:
+    name: 'Instituto Cervantes. Ośrodek Kultury Hiszpańskiej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-511
+    street: 'Nowogrodzka 22'
+    tel: "\r\n                    Tel.: 22 501 39 01"
+    email: warsovia@cervantes.es
+    www: null
+    slogan: null
+    target: null
+  House_381:
+    name: 'Instytut Książki w Krakowie. Oddział'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-901
+    street: 'pl. Defilad 1 lok. 911'
+    tel: "\r\n                    Tel.: 22 656 63 86"
+    email: warszawa@instytutksiazki.pl
+    www: null
+    slogan: null
+    target: null
+  House_382:
+    name: 'Instytut Słowacki'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-270
+    street: 'Krzywe Koło 12/14a'
+    tel: "\r\n                    Tel.: 22 635 77 74"
+    email: instytut_slowacki@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_383:
+    name: 'Jazzie Rock Sp. z o.o.'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-516
+    street: 'Starościńska 1b lok. 7'
+    tel: "\r\n                    Tel.: 22 542 41 96"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_384:
+    name: 'Jowisz. Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-332
+    street: 'Chodecka 4'
+    tel: "\r\n                    Tel.: 22 674 60 62"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_385:
+    name: 'Kadr. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-683
+    street: 'Gotarda 16'
+    tel: "\r\n                    Tel/fax: 22 843 88 81"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_388:
+    name: 'Kolorowa. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-495
+    street: 'gen. K. Sosnkowskiego 16'
+    tel: "\r\n                    Tel/fax: 22 867 63 95"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_389:
+    name: 'Konstanciński Dom Kultury'
+    Region: Region_3
+    city: 'Konstancin-Jeziorna,'
+    zipCode: 05-520
+    street: 'Jaworskiego 18'
+    tel: "\r\n                    Tel/fax: 22 754 47 23"
+    email: kdk@kdk-info.pl
+    www: null
+    slogan: null
+    target: null
+  House_390:
+    name: 'Lipskie Centrum Kultury'
+    Region: Region_3
+    city: 'Lipsko,'
+    zipCode: 27-300
+    street: 'Rynek 2'
+    tel: "\r\n                    Tel.: 48 378 01 31"
+    email: lck@lcklipsko.pl
+    www: www.lcklipsko.pl
+    slogan: null
+    target: null
+  House_391:
+    name: 'Lira. Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-392
+    street: 'Łojewska 3'
+    tel: "\r\n                    Tel.: 22 675 15 55"
+    email: lira2@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_392:
+    name: 'Łosicki Dom Kultury i Sportu'
+    Region: Region_3
+    city: 'Łosice,'
+    zipCode: 08-200
+    street: 'marsz. Piłsudskiego 4'
+    tel: "\r\n                    Tel.: 83 359 05 09"
+    email: ldklosice@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_393:
+    name: 'Łowicka. Dzielnicowy Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-502
+    street: 'Łowicka 21'
+    tel: "\r\n                    Tel/fax: 22 845 56 75"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_394:
+    name: 'Magazyn Sztuk'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-056
+    street: 'Filtrowa 62 lok. 230'
+    tel: "\r\n                    Tel.: 22 659 43 37"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_395:
+    name: 'Marecki Ośrodek Kultury'
+    Region: Region_3
+    city: 'Marki,'
+    zipCode: 05-270
+    street: 'Fabryczna 2'
+    tel: "\r\n                    Tel.: 22 781 14 06"
+    email: mokmarki@mokmarki.pl
+    www: null
+    slogan: null
+    target: null
+  House_396:
+    name: 'Miejski Dom Kultury'
+    Region: Region_3
+    city: 'Maków Mazowiecki,'
+    zipCode: 06-200
+    street: 'Moniuszki 2'
+    tel: "\r\n                    Tel/fax: 29 717 12 72"
+    email: mdk_makow@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_397:
+    name: 'Miejski Dom Kultury'
+    Region: Region_3
+    city: 'Mińsk Mazowiecki,'
+    zipCode: 05-300
+    street: 'Warszawska 173'
+    tel: "\r\n                    Tel/fax: 25 758 39 17"
+    email: mdkmm@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_398:
+    name: 'Miejski Dom Kultury'
+    Region: Region_3
+    city: 'Ostrów Mazowiecka,'
+    zipCode: 07-300
+    street: '3 Maja'
+    tel: "\r\n                    Tel.: 29 746 27 03"
+    email: mdk@ostrowmazowiecka.com
+    www: null
+    slogan: null
+    target: null
+  House_400:
+    name: 'Miejski Dom Kultury'
+    Region: Region_3
+    city: 'Wołomin,'
+    zipCode: 05-200
+    street: 'Mariańska 7'
+    tel: "\r\n                    Tel.: 22 787 45 13"
+    email: mdk@wolomin.net
+    www: null
+    slogan: null
+    target: null
+  House_401:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Józefów,'
+    zipCode: 05-420
+    street: 'kard. Wyszyńskiego 1'
+    tel: "\r\n                    Tel/fax: 22 789 20 26"
+    email: mok@mokjozefow.pl
+    www: null
+    slogan: null
+    target: null
+  House_402:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Kobyłka,'
+    zipCode: 05-230
+    street: 'al. Jana Pawła II 22'
+    tel: "\r\n                    Tel.: 22 786 20 37"
+    email: mok@kobylka.pl
+    www: null
+    slogan: null
+    target: null
+  House_403:
+    name: 'Miejski Ośrodek Kultury. Filia'
+    Region: Region_3
+    city: 'Legionowo,'
+    zipCode: 05-120
+    street: 'Targowa 65'
+    tel: "\r\n                    Tel.: 22 784 14 22"
+    email: moktargowa@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_404:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Milanówek,'
+    zipCode: 05-822
+    street: 'Kościelna 3'
+    tel: "\r\n                    Tel.: 22 758 39 60"
+    email: sekretariat@ckip.milanowek.pl
+    www: null
+    slogan: null
+    target: null
+  House_405:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Piastów,'
+    zipCode: 05-820
+    street: 'Warszawska 24'
+    tel: "\r\n                    Tel/fax: 22 723 65 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_406:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Pionki,'
+    zipCode: 26-670
+    street: 'Radomska 1'
+    tel: "\r\n                    Tel/fax: 48 612 51 25"
+    email: mok@mokpionki.org
+    www: null
+    slogan: null
+    target: null
+  House_407:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Pruszków,'
+    zipCode: 05-800
+    street: 'Zimińskiej-Sygietyńskiej 5'
+    tel: "\r\n                    Tel.: 22 728 39 42"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_408:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Siedlce,'
+    zipCode: 08-110
+    street: 'Pułaskiego 6'
+    tel: "\r\n                    Tel.: 25 632 27 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_409:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Sochaczew,'
+    zipCode: 96-500
+    street: 'Żeromskiego 8'
+    tel: "\r\n                    Tel.: 46 862 25 02"
+    email: mok@esochaczew.pl
+    www: null
+    slogan: null
+    target: null
+  House_410:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Ząbki,'
+    zipCode: 05-091
+    street: 'Słowackiego 10'
+    tel: "\r\n                    Tel.: 22 781 64 30"
+    email: mok@mokzabki.koti.pl
+    www: null
+    slogan: null
+    target: null
+  House_411:
+    name: 'Miejski Ośrodek Kultury im. C.S. Chaplina'
+    Region: Region_3
+    city: 'Legionowo,'
+    zipCode: 05-120
+    street: 'Norwida 10'
+    tel: "\r\n                    Tel/fax: 22 774 44 74"
+    email: moklegionowo@tlen.pl
+    www: null
+    slogan: null
+    target: null
+  House_412:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_3
+    city: 'Gostynin,'
+    zipCode: 09-500
+    street: '18 Stycznia 2'
+    tel: "\r\n                    Tel.: 24 235 34 47"
+    email: sekretariat@mck-gostynin.pl
+    www: null
+    slogan: null
+    target: null
+  House_413:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_3
+    city: 'Płońsk,'
+    zipCode: 09-100
+    street: 'Płocka 50'
+    tel: "\r\n                    Tel.: 23 662 22 32"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_414:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_3
+    city: 'Pułtusk,'
+    zipCode: 06-100
+    street: 'pl. Teatralny 4'
+    tel: "\r\n                    Tel.: 23 692 84 21"
+    email: mdk_pultusk@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_427:
+    name: 'Miś. Dom kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-495
+    street: 'Zagłoby 17'
+    tel: "\r\n                    Tel.: 22 667 92 18"
+    email: domkulturymis@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_433:
+    name: 'Mszczonowski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Mszczonów,'
+    zipCode: 96-320
+    street: 'Warszawska 33'
+    tel: "\r\n                    Tel.: 46 857 16 63"
+    email: mszczonow@poczta.pl
+    www: null
+    slogan: null
+    target: null
+  House_435:
+    name: 'Nadarzyński Ośrodek Kultury Urzędu Gminy Nadarzyn'
+    Region: Region_3
+    city: 'Nadarzyn,'
+    zipCode: 05-830
+    street: 'pl. Poniatowskiego 42'
+    tel: "\r\n                    Tel.: 22 739 73 12"
+    email: nok@nok.pl
+    www: null
+    slogan: null
+    target: null
+  House_436:
+    name: 'Narodowe Centrum Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-082
+    street: 'Senatorska 12'
+    tel: "\r\n                    Tel.: 22 210 01 00"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_437:
+    name: 'Nasielski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Nasielsk,'
+    zipCode: 05-190
+    street: 'Kościuszki 12'
+    tel: "\r\n                    Tel.: 23 691 23 43"
+    email: nok@noknasielsk.pl
+    www: null
+    slogan: null
+    target: null
+  House_438:
+    name: 'Natoliński Ośrodek Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-791
+    street: 'Na Uboczu 3'
+    tel: "\r\n                    Tel.: 22 648 65 81"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_439:
+    name: 'New Sun Sp. z o.o.'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-057
+    street: 'Zamoyskiego 4'
+    tel: "\r\n                    Tel.: 22 619 27 89"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_441:
+    name: 'Nowodworski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Nowy Dwór Mazowiecki,'
+    zipCode: 05-100
+    street: 'Paderewskiego 22'
+    tel: "\r\n                    Tel.: 22 775 11 69"
+    email: nokndm@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_444:
+    name: 'Ochota. Ośrodek kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-094
+    street: 'Grójecka 75'
+    tel: "\r\n                    Tel.: 22 822 93 69"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_446:
+    name: 'Ognisko Pracy Pozaszkolnej'
+    Region: Region_3
+    city: 'Sierpc,'
+    zipCode: 09-200
+    street: 'Armii Krajowej 8a'
+    tel: "\r\n                    Tel.: 24 275 13 09"
+    email: ognisko.pracy.pozaszkolnej1@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_447:
+    name: 'Okęcka Sala Widowiskowa Domu Kultury Włochy'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-134
+    street: '1 Sierpnia 36a'
+    tel: "\r\n                    Tel.: 22 868 02 01"
+    email: salawidowiskowa@dkwlochy.pl
+    www: null
+    slogan: null
+    target: null
+  House_448:
+    name: 'Okuniew. Dom Kultury'
+    Region: Region_3
+    city: 'Okuniew,'
+    zipCode: 05-079
+    street: 'Rynek 46/2'
+    tel: "\r\n                    Tel.: 22 783 70 99"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_450:
+    name: 'Oskar. Kino'
+    Region: Region_3
+    city: 'Lipsko,'
+    zipCode: 27-300
+    street: 'Rynek 2'
+    tel: "\r\n                    Tel.: 48 378 01 31"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_451:
+    name: 'Ostrołęckie Centrum Kultury'
+    Region: Region_3
+    city: 'Ostrołęka,'
+    zipCode: 07-410
+    street: 'Inwalidów Wojennych 23'
+    tel: "\r\n                    Tel/fax: 29 766 45 89"
+    email: ock@ock-ostroleka.pl
+    www: null
+    slogan: null
+    target: null
+  House_452:
+    name: 'Ośrodek Kształcenia Artystycznego Młodzieży Fundacji Promocji Sztuki Współczesnej im. ks. J. Poniatowskiego'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-437
+    street: 'Zakrzewska 24'
+    tel: "\r\n                    Tel/fax: 22 851 25 27"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_453:
+    name: 'Ośrodek Kultury'
+    Region: Region_3
+    city: 'Góra Kalwaria,'
+    zipCode: 05-530
+    street: 'ks. Sajny 14'
+    tel: "\r\n                    Tel.: 22 727 35 39"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_454:
+    name: 'Ośrodek Kultury Gminy'
+    Region: Region_3
+    city: 'Grodzisk Mazowiecki,'
+    zipCode: 05-822
+    street: 'Spółdzielcza 9'
+    tel: "\r\n                    Tel.: 22 734 79 00"
+    email: grodzisk@centrumkultury.eu
+    www: null
+    slogan: null
+    target: null
+  House_455:
+    name: 'Ośrodek Kultury'
+    Region: Region_3
+    city: Skierdy
+    zipCode: 05-100
+    street: null
+    tel: "\r\n                    Tel.: 22 782 47 22"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_456:
+    name: 'Ośrodek Kultury. Filia'
+    Region: Region_3
+    city: 'Grodzisk Mazowiecki,'
+    zipCode: 05-825
+    street: 'Sienkiewicza 31'
+    tel: "\r\n                    Tel.: 22 755 51 45"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_457:
+    name: 'Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-493
+    street: 'Szadkowskiego 3'
+    tel: "\r\n                    Tel.: 22 638 29 48"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_458:
+    name: 'Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-466
+    street: 'Bolkowska 2c'
+    tel: "\r\n                    Tel.: 22 436 34 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_459:
+    name: 'Ośrodek Kultury Miasta Stołecznego Warszawy'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 05-075
+    street: 'Starzyńskiego (d.Wesoła) 21'
+    tel: "\r\n                    Tel.: 22 773 61 88"
+    email: wesolakultura@domkulturywesola.net
+    www: null
+    slogan: null
+    target: null
+  House_460:
+    name: 'Ośrodek Upowszechniania Kultury'
+    Region: Region_3
+    city: 'Chorzele,'
+    zipCode: 06-330
+    street: 'Żabia 1'
+    tel: "\r\n                    Tel.: 29 751 51 89"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_461:
+    name: 'Otwockie Centrum Kultury'
+    Region: Region_3
+    city: 'Otwock,'
+    zipCode: 05-400
+    street: 'Warszawska 11/13'
+    tel: "\r\n                    Tel.: 22 779 36 43"
+    email: ock@meostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_462:
+    name: 'Pałac Młodzieży Dział Elektroniki'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-901
+    street: 'pl. Defilad 1'
+    tel: "\r\n                    Fax: 22 620 02 11 we"
+    email: nfo@pm.waw.pl
+    www: null
+    slogan: null
+    target: null
+  House_463:
+    name: 'Państwowe Ognisko Artystyczne'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-150
+    street: 'Nowolipie 4'
+    tel: "\r\n                    Tel.: 22 635 19 60"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_464:
+    name: 'Patio. Salon sztuki użytkowej. Michalewicz J.'
+    Region: Region_3
+    city: 'Michałowice,'
+    zipCode: 05-816
+    street: 'Regulska 22a'
+    tel: "\r\n                    Tel.: 22 723 88 56"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_465:
+    name: 'Płocki Ośrodek Kultury i Sztuki'
+    Region: Region_3
+    city: 'Płock,'
+    zipCode: 09-402
+    street: 'Tumska 9a'
+    tel: "\r\n                    Tel.: 24 367 19 20"
+    email: pokis@pokis.pl
+    www: null
+    slogan: null
+    target: null
+  House_466:
+    name: 'Polski Instytut Sztuki Filmowej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-071
+    street: 'Krakowskie Przedmieście 21/23'
+    tel: "\r\n                    Tel.: 22 421 01 30"
+    email: pisf@pisf.pl
+    www: null
+    slogan: null
+    target: null
+  House_467:
+    name: 'Południe. Centrum Kultury'
+    Region: Region_3
+    city: 'Radom,'
+    zipCode: 26-616
+    street: 'Czarnoleska 17'
+    tel: "\r\n                    Kom.: 604 38 06 21"
+    email: ckp_radom@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_470:
+    name: 'Pracownia Dokumentacji Dziejów Miasta Miejskiego Centrum Kultury'
+    Region: Region_3
+    city: 'Płońsk,'
+    zipCode: 09-100
+    street: 'Płocka 19'
+    tel: "\r\n                    Tel.: 23 662 34 82"
+    email: prac_dok_plonsk@wa.home.pl
+    www: null
+    slogan: null
+    target: null
+  House_471:
+    name: 'Radogoszcz. Centrum Edukacji Kulturalnej'
+    Region: Region_3
+    city: 'Grodzisk Mazowiecki,'
+    zipCode: 05-825
+    street: 'Sienkiewicza 31'
+    tel: "\r\n                    Tel.: 22 755 51 45"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_472:
+    name: 'Radzymiński Ośrodek Kultury i Sportu'
+    Region: Region_3
+    city: 'Nadma,'
+    zipCode: 05-270
+    street: Stara
+    tel: "\r\n                    Tel.: 22 781 14 24"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_473:
+    name: 'Radzymiński Ośrodek Kultury i Sportu'
+    Region: Region_3
+    city: 'Radzymin,'
+    zipCode: 05-250
+    street: 'al. Jana Pawła II 20'
+    tel: "\r\n                    Tel/fax: 22 786 52 99"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_474:
+    name: 'Rakowiec. Dom Kultury Ośrodka Kultury Ochoty'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-114
+    street: 'Wiślicka 8'
+    tel: "\r\n                    Tel/fax: 22 823 66 97"
+    email: rakowiec@oko.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_475:
+    name: 'Rembertów. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 04-485
+    street: 'al. Komandosów 8'
+    tel: "\r\n                    Tel.: 22 611 96 87"
+    email: domkultury.rembertow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_476:
+    name: 'Rumuński Instytut Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-071
+    street: 'Krakowskie Przedmieście 47 lok. 51'
+    tel: "\r\n                    Tel.: 22 828 12 78"
+    email: warszawa@icr.ro
+    www: null
+    slogan: null
+    target: null
+  House_478:
+    name: 'Sadyba. Ośrodek Edukacji Kulturalnej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-934
+    street: 'Korczyńska 6'
+    tel: "\r\n                    Tel/fax: 22 642 59 08"
+    email: oek.sadyba@msmenergetyka.pl
+    www: null
+    slogan: null
+    target: null
+  House_479:
+    name: 'Scena 210. Spółdzielczy Ośrodek Kultury'
+    Region: Region_3
+    city: 'Legionowo,'
+    zipCode: 05-120
+    street: 'Husarska 12'
+    tel: "\r\n                    Tel/fax: 22 774 98 70"
+    email: scena210@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_480:
+    name: 'SMB Jary. Dom Sztuki'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-785
+    street: 'Wiolinowa 14'
+    tel: "\r\n                    Tel.: 22 641 29 62"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_481:
+    name: 'Sokołowski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Sokołów Podlaski,'
+    zipCode: 08-300
+    street: 'Wolności 27'
+    tel: "\r\n                    Tel.: 25 787 24 38"
+    email: sok@sokolowpodl.pl
+    www: www.sok.sokolowpodl.pl
+    slogan: null
+    target: null
+  House_482:
+    name: 'Społeczne Ognisko Artystyczne'
+    Region: Region_3
+    city: 'Radom,'
+    zipCode: 26-611
+    street: 'Sandomierska 13'
+    tel: "\r\n                    Tel.: 48 366 56 09"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_483:
+    name: 'Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Nowy Dwór Mazowiecki,'
+    zipCode: 05-100
+    street: 'Mazowiecka 8'
+    tel: "\r\n                    Tel.: 22 775 33 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_484:
+    name: 'Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Nowy Dwór Mazowiecki,'
+    zipCode: 05-100
+    street: 'Szarych Szeregów 2'
+    tel: "\r\n                    Tel.: 22 775 58 17"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_485:
+    name: 'Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Płock,'
+    zipCode: 09-400
+    street: 'Bolesława Krzywoustego 3'
+    tel: "\r\n                    Tel.: 24 263 35 60"
+    email: sdk@psmlw.pl
+    www: null
+    slogan: null
+    target: null
+  House_486:
+    name: 'Spółdzielczy Dom Kultury'
+    Region: Region_3
+    city: 'Pruszków,'
+    zipCode: 05-800
+    street: 'Hubala 5'
+    tel: "\r\n                    Tel.: 22 758 41 76"
+    email: sdkultury@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_487:
+    name: 'Staromiejski Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-272
+    street: 'Rynek Starego Miasta 2'
+    tel: "\r\n                    Tel.: 22 831 23 75"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_488:
+    name: 'Stokłosy. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-786
+    street: 'Lachmana 5'
+    tel: "\r\n                    Tel/fax: 22 643 43 35"
+    email: 'dom.<span class="hitHighlight">kultury</span>@stok'
+    www: null
+    slogan: null
+    target: null
+  House_489:
+    name: 'Stołeczne Centrum Edukacji Kulturalnej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-281
+    street: 'Jezuicka 4'
+    tel: "\r\n                    Tel.: 22 831 53 93"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_490:
+    name: 'Szydłowiecki Ośrodek Kultury. Imprezy okolicznościowe i artystyczne'
+    Region: Region_3
+    city: 'Szydłowiec,'
+    zipCode: 26-500
+    street: 'gen. Sowińskiego 2'
+    tel: "\r\n                    Tel/fax: 48 617 10 29"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_491:
+    name: 'Śródmieście. Dom kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-681
+    street: 'Hoża 41 lok. 2'
+    tel: "\r\n                    Tel/fax: 22 621 95 32"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_498:
+    name: 'Teresiński Ośrodek Kultury'
+    Region: Region_3
+    city: 'Teresin,'
+    zipCode: 96-515
+    street: 'al. XX-Lecia 32'
+    tel: "\r\n                    Tel.: 46 861 38 81"
+    email: kulturysci@tok.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_499:
+    name: 'Towarzystwo Kampinoskie'
+    Region: Region_3
+    city: 'Kampinos,'
+    zipCode: 05-085
+    street: 'Chopina 9'
+    tel: "\r\n                    Tel.: 22 725 04 65"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_500:
+    name: 'Warszawska Jesień. Międzynarodowy Festiwal Muzyki Współczesnej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-272
+    street: 'Rynek Starego Miasta 27'
+    tel: "\r\n                    Tel/fax: 22 831 06 07"
+    email: festival@warsaw-autumn.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_501:
+    name: 'Węgierski Instytut Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-517
+    street: 'Moniuszki 10'
+    tel: "\r\n                    Tel.: 22 629 32 41"
+    email: hunginst@hunginst.pol.pl
+    www: null
+    slogan: null
+    target: null
+  House_502:
+    name: 'Węgrowski Ośrodek Kultury'
+    Region: Region_3
+    city: 'Węgrów,'
+    zipCode: 07-100
+    street: 'Mickiewicza 4a'
+    tel: "\r\n                    Tel.: 25 792 00 59"
+    email: wok02@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_504:
+    name: 'Wilanów. Centrum kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 02-952
+    street: 'Wiertnicza 26'
+    tel: "\r\n                    Tel.: 22 651 98 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_505:
+    name: 'Włoski Instytut Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 00-545
+    street: 'Marszałkowska 72'
+    tel: "\r\n                    Tel.: 22 628 06 10"
+    email: segreteria@iic.pl
+    www: null
+    slogan: null
+    target: null
+  House_506:
+    name: 'Wygoda. Dom kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 04-267
+    street: 'Koniecpolska 14'
+    tel: "\r\n                    Tel.: 22 812 06 33"
+    email: dkwygoda@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_507:
+    name: 'Zacisze. Dom Kultury'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 03-641
+    street: 'Blokowa 1'
+    tel: "\r\n                    Tel.: 22 679 84 69"
+    email: dk@zacisze.waw.pl
+    www: null
+    slogan: null
+    target: null
+  House_509:
+    name: 'Zespół Wolskich Placówek Edukacji Kulturalnej'
+    Region: Region_3
+    city: 'Warszawa,'
+    zipCode: 01-422
+    street: 'Brożka 1a'
+    tel: "\r\n                    Tel/fax: 22 836 13 13"
+    email: zwpek@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_510:
+    name: 'Żuromińskie Centrum Kultury'
+    Region: Region_3
+    city: 'Żuromin,'
+    zipCode: 09-360
+    street: 'pl. marsz. Piłsudskiego 1'
+    tel: "\r\n                    Tel/fax: 23 657 27 99"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_511:
+    name: 'Impart. Centrum sztuki'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-412
+    street: 'Mazowiecka 17'
+    tel: "\r\n                    Tel.: 71 344 28 16"
+    email: impart@impart.art.pl
+    www: www.impart.art.pl
+    slogan: '...Wojewódzkiego Domu Kultury oraz Przedsiębiorstwa...IMPART powstaje Centrum Sztuki IMPART, - najprężniej działająca...legenda Wrocławskiej kultury. Centrum Sztuki IMPART prowadzi działalność...'
+    target: null
+  House_512:
+    name: 'Trzebnicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Trzebnica,'
+    zipCode: 55-100
+    street: 'Prusicka 12'
+    tel: "\r\n                    Tel/fax: 71 312 09 47"
+    email: tok.trzebnica@neostrada.pl
+    www: www.tok.trzebnica.pl
+    slogan: '...działalności: Trzebnicki Ośrodek Kultury oferuje wynajem sal: - Widowiskowej - 430 miejsc...Dodatkowe usługi: Trzebnicki Osrodek Kultury zrzesza wiele sekcji oraz kół zainteresowań...'
+    target: null
+  House_513:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Bielawa,'
+    zipCode: 58-260
+    street: 'Piastowska 19a'
+    tel: "\r\n                    Tel.: 74 833 30 07<span clas"
+    email: biuro@mokisbielawo.pl
+    www: null
+    slogan: null
+    target: null
+  House_515:
+    name: 'Agora. Centrum kultury'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: null
+    street: 'pl. marsz. Piłsudskiego 2'
+    tel: "\r\n                    Tel.: 71 325 14 83"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_516:
+    name: 'Agora. Centrum Kultury'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 51-152
+    street: 'Serbska 5a'
+    tel: "\r\n                    Tel.: 71 325 14 83"
+    email: sekretariat@ckagora.pl
+    www: null
+    slogan: null
+    target: null
+  House_518:
+    name: 'Arena Classica Sp. z o.o.'
+    Region: Region_4
+    city: 'Wałbrzych,'
+    zipCode: 58-314
+    street: 'Palisadowa 10 lok. 10'
+    tel: "\r\n                    Kom.: 602 60 06 62"
+    email: biuro@arena-clasica.com
+    www: null
+    slogan: null
+    target: null
+  House_519:
+    name: 'Atrium. Dom Kultury'
+    Region: Region_4
+    city: 'Legnica,'
+    zipCode: 59-220
+    street: 'Pomorska 19'
+    tel: "\r\n                    Tel.: 76 856 11 61"
+    email: atrium@sm-piekary.pl
+    www: null
+    slogan: null
+    target: null
+  House_520:
+    name: 'Awia. Dom kultury'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 51-317
+    street: 'Bierutowska 2'
+    tel: "\r\n                    Tel.: 71 324 50 85"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_521:
+    name: 'Bakara. Dom Kultury Spółdzielni Mieszkaniowej Metalowiec'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 53-226
+    street: 'Różana 4/6'
+    tel: "\r\n                    Tel.: 71 363 24 55"
+    email: bakara@bakara.pl
+    www: null
+    slogan: null
+    target: null
+  House_524:
+    name: 'Bogatyński Ośrodek Kultury'
+    Region: Region_4
+    city: 'Bogatynia,'
+    zipCode: 59-920
+    street: '2 Armii Wojska Polskiego 1'
+    tel: "\r\n                    Tel/fax: 75 773 25 22"
+    email: bokbodatynia@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_525:
+    name: 'Bogatyński Ośrodek Kultury'
+    Region: Region_4
+    city: 'Bogatynia,'
+    zipCode: 59-916
+    street: 'Ogrodowa 1'
+    tel: "\r\n                    Tel.: 75 778 45 41"
+    email: bok@bok.art.pl
+    www: null
+    slogan: null
+    target: null
+  House_526:
+    name: 'Bolesławicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Bolesławiec,'
+    zipCode: 59-700
+    street: 'pl. Piłsudskiego 1c'
+    tel: "\r\n                    Tel.: 75 644 21 45"
+    email: sekretariat@boh.boleslawiec.pl
+    www: null
+    slogan: null
+    target: null
+  House_528:
+    name: 'Browar Mieszczański. Sp. z o.o. Wystawy, koncerty, festiwale'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-502
+    street: 'Hubska 44-48'
+    tel: "\r\n                    Tel/fax: 71 367 70 48"
+    email: agnieszka.nowickaa@browar.wroc.pl
+    www: null
+    slogan: null
+    target: null
+  House_529:
+    name: 'Centrum Edukacji Kulturalnej Dzieci i Młodzieży. Zespół'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-007
+    street: 'ks. Kołłątaja 20'
+    tel: "\r\n                    Tel.: 71 343 88 56"
+    email: mdkkopernik1@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_530:
+    name: 'Centrum Kultury'
+    Region: Region_4
+    city: 'Jedlina-Zdrój,'
+    zipCode: 58-330
+    street: 'Piastowska 13'
+    tel: "\r\n                    Tel/fax: 74 845 52 49"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_531:
+    name: 'Centrum Kultury'
+    Region: Region_4
+    city: 'Kamienna Góra,'
+    zipCode: 58-400
+    street: 'Kościuszki 4'
+    tel: "\r\n                    Tel/fax: 75 744 28 75"
+    email: mdk_kg@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_532:
+    name: 'Centrum Kultury'
+    Region: Region_4
+    city: 'Syców,'
+    zipCode: 56-500
+    street: 'Kościelna 16'
+    tel: "\r\n                    Tel.: 62 785 51 53"
+    email: cksycow@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_533:
+    name: 'Centrum Kultury. Punkt Informacji Turystycznej'
+    Region: Region_4
+    city: 'Świerzawa,'
+    zipCode: 59-540
+    street: 'Jeleniogórska 58'
+    tel: "\r\n                    Tel.: 75 713 52 73"
+    email: centrumkultury@swierzawa.pl
+    www: null
+    slogan: null
+    target: null
+  House_534:
+    name: 'Centrum Kultury Gminy Nowa Ruda'
+    Region: Region_4
+    city: 'Ludwikowice Kłodzkie,'
+    zipCode: 57-450
+    street: 'Fabryczna 2'
+    tel: "\r\n                    Tel.: 74 872 20 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_535:
+    name: 'Centrum Kultury i Promocji'
+    Region: Region_4
+    city: 'Bardo,'
+    zipCode: 57-256
+    street: 'Kolejowa 12'
+    tel: "\r\n                    Tel.: 74 817 08 27"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_536:
+    name: 'Centrum Kultury i Promocji'
+    Region: Region_4
+    city: 'Złoty Stok,'
+    zipCode: 57-250
+    street: '3 Maja 10'
+    tel: "\r\n                    Tel.: 74 817 55 91"
+    email: ckip@neostrada.eu
+    www: null
+    slogan: null
+    target: null
+  House_537:
+    name: 'Centrum Kultury i Rekreacji'
+    Region: Region_4
+    city: 'Lądek Zdrój,'
+    zipCode: 57-540
+    street: 'pl. Staromłyński 5'
+    tel: "\r\n                    Tel.: 74 814 65 62"
+    email: ckir@ladek.pl
+    www: null
+    slogan: null
+    target: null
+  House_538:
+    name: 'Centrum Kultury i Turystyki'
+    Region: Region_4
+    city: 'Walim,'
+    zipCode: 58-320
+    street: 'Kościuszki 2'
+    tel: "\r\n                    Tel.: 74 845 72 30"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_539:
+    name: 'Centrum Kultury Wrocław - Zachód'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 54-433
+    street: 'Chociebuska 4-6'
+    tel: "\r\n                    Tel/fax: 71 354 46 60"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_540:
+    name: 'Centrum Turystyki i Kultury'
+    Region: Region_4
+    city: 'Ścinawa,'
+    zipCode: 59-330
+    street: 'Jana Pawła II 17'
+    tel: "\r\n                    Tel.: 76 841 26 37"
+    email: sekretariat@ctik.scinawa.pl
+    www: null
+    slogan: null
+    target: null
+  House_541:
+    name: 'Chobieński Ośrodek Kultury'
+    Region: Region_4
+    city: 'Chobienia,'
+    zipCode: 59-305
+    street: 'Rynek 6'
+    tel: "\r\n                    Tel.: 76 843 95 19"
+    email: chok-chobienia@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_542:
+    name: 'Chocianowski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Chocianów,'
+    zipCode: 59-140
+    street: 'Kościuszki 5'
+    tel: "\r\n                    Tel.: 76 818 55 80"
+    email: chok5@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_543:
+    name: 'Cyganeria Galeria. Kudowski Ośrodek Kultury, Sportu i Promocji'
+    Region: Region_4
+    city: 'Kudowa Zdrój,'
+    zipCode: 57-350
+    street: '1 Maja 29'
+    tel: "\r\n                    Tel.: 74 866 35 64"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_544:
+    name: 'Dolnobrzeski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Brzeg Dolny,'
+    zipCode: 56-120
+    street: 'Kolejowa 29'
+    tel: "\r\n                    Tel.: 71 319 52 52"
+    email: dok@brzegdolny.pl
+    www: null
+    slogan: null
+    target: null
+  House_545:
+    name: 'Dolnośląski Ośrodek Osób Twórczych'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 53-608
+    street: 'Robotnicza 36'
+    tel: "\r\n                    Tel.: 71 359 14 13"
+    email: kontakt@teo.org.pl
+    www: null
+    slogan: null
+    target: null
+  House_546:
+    name: 'Dolnośląskie Centrum Informacji Kulturalnej'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-101
+    street: 'Rynek-Ratusz 24'
+    tel: "\r\n                    Tel.: 71 342 22 91"
+    email: cik@okis.pl
+    www: null
+    slogan: null
+    target: null
+  House_547:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Bystrzyca Górna,'
+    zipCode: 58-114
+    street: '23'
+    tel: "\r\n                    Tel.: 74 850 99 31"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_548:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Chełmsko Śląskie,'
+    zipCode: 58-420
+    street: 'Rynek 14'
+    tel: "\r\n                    Tel.: 75 742 21 97"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_549:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Góra,'
+    zipCode: 56-200
+    street: 'Armii Polskiej 13'
+    tel: "\r\n                    Tel.: 65 543 23 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_550:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Lubawka,'
+    zipCode: 58-420
+    street: 'Kamiennogórska 19'
+    tel: "\r\n                    Tel.: 75 741 13 62"
+    email: kulturalubawka@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_551:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Lubiąż,'
+    zipCode: 56-100
+    street: 'Willmanna 12'
+    tel: "\r\n                    Tel.: 71 389 71 21"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_552:
+    name: 'Dom Kultury Mieroszowskiego Centrum Kultury'
+    Region: Region_4
+    city: 'Mieroszów,'
+    zipCode: 58-350
+    street: 'Żeromskiego 28'
+    tel: "\r\n                    Tel.: 74 880 12 68"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_553:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Ruszów,'
+    zipCode: 59-950
+    street: 'Strzelecka 3'
+    tel: "\r\n                    Tel.: 75 771 42 43"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_554:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Siekierczyn,'
+    zipCode: 59-818
+    street: '1'
+    tel: "\r\n                    Tel.: 75 722 17 77"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_555:
+    name: 'Dom Kultury'
+    Region: Region_4
+    city: 'Środa Śląska,'
+    zipCode: 55-300
+    street: 'pl. Wolności 58'
+    tel: "\r\n                    Tel.: 71 317 32 11"
+    email: dk@srodaslaska.pl
+    www: null
+    slogan: null
+    target: null
+  House_556:
+    name: 'Dom Kultury Gminnego Centrum Kultury'
+    Region: Region_4
+    city: 'Tomaszów Bolesławiecki,'
+    zipCode: 59-722
+    street: '100'
+    tel: "\r\n                    Tel.: 75 738 96 58"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_558:
+    name: 'Dom Ludowy'
+    Region: Region_4
+    city: 'Wolany,'
+    zipCode: 57-314
+    street: '4'
+    tel: "\r\n                    Tel.: 74 868 75 95"
+    email: mok@mok-szczytna.pl
+    www: null
+    slogan: null
+    target: null
+  House_559:
+    name: 'Dom Strażaka'
+    Region: Region_4
+    city: Siciny
+    zipCode: 56-203
+    street: null
+    tel: "\r\n                    Tel.: 65 543 51 80"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_560:
+    name: 'Esplanada. Centrum Edukacji Artystycznej'
+    Region: Region_4
+    city: 'Szklarska Poręba,'
+    zipCode: 58-580
+    street: 'Pstrowskiego 5a'
+    tel: "\r\n                    Tel.: 75 717 34 88"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_562:
+    name: 'Gawrosz. Centrum Profilaktyki Dzieci i Młodzieży Stowarzyszenia Monar'
+    Region: Region_4
+    city: 'Zgorzelec,'
+    zipCode: 59-900
+    street: 'Warszawska 1'
+    tel: "\r\n                    Tel/fax: 75 771 63 95"
+    email: porawian@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_563:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_4
+    city: 'Cieszków,'
+    zipCode: 56-330
+    street: 'Sikorskiego 35'
+    tel: "\r\n                    Tel.: 71 384 81 42"
+    email: gckcieszkow@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_564:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_4
+    city: 'Dobroszyce,'
+    zipCode: 56-410
+    street: 'Parkowa 14'
+    tel: "\r\n                    Tel.: 71 314 12 89"
+    email: gck@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_565:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_4
+    city: 'Kamieniec Ząbkowicki,'
+    zipCode: 57-230
+    street: 'Złotostocka 27'
+    tel: "\r\n                    Tel.: 74 817 32 31"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_566:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_4
+    city: 'Żórawina,'
+    zipCode: 55-020
+    street: 'al. Niepodległości 6'
+    tel: "\r\n                    Tel.: 71 316 51 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_567:
+    name: 'Gminne Centrum Kultury i Sportu'
+    Region: Region_4
+    city: 'Nowogrodziec,'
+    zipCode: 59-730
+    street: 'Lubańska 42a'
+    tel: "\r\n                    Tel.: 75 731 63 98"
+    email: gckisnowogrodziec@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_568:
+    name: 'Gminne Centrum Kultury i Sportu'
+    Region: Region_4
+    city: 'Żarów,'
+    zipCode: 58-130
+    street: 'Piastowska 10a'
+    tel: "\r\n                    Tel/fax: 74 858 07 53"
+    email: centrum@zarow.pl
+    www: null
+    slogan: null
+    target: null
+  House_569:
+    name: 'Gminne Centrum Kultury, Sportu i Turystyki'
+    Region: Region_4
+    city: 'Radków,'
+    zipCode: 57-420
+    street: 'Handlowa 11'
+    tel: "\r\n                    Tel.: 74 871 21 54"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_570:
+    name: 'Gminne Centrum Kultury w Świętej Katarzynie'
+    Region: Region_4
+    city: 'Siechnice,'
+    zipCode: 55-011
+    street: 'Fabryczna 15'
+    tel: "\r\n                    Tel.: 71 311 39 97"
+    email: qck@sw-katarzyna.pl
+    www: null
+    slogan: null
+    target: null
+  House_571:
+    name: 'Gminno - Miejski Ośrodek Kultury, Sportu i Rekreacji'
+    Region: Region_4
+    city: 'Bolków,'
+    zipCode: 59-420
+    street: 'Szpitalna 16'
+    tel: "\r\n                    Tel.: 75 741 34 31"
+    email: kulturabolkow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_602:
+    name: 'Grębockie Centrum Kultury'
+    Region: Region_4
+    city: 'Grębocice,'
+    zipCode: 59-150
+    street: 'Kościelna 21'
+    tel: "\r\n                    Tel.: 76 831 50 89"
+    email: grebocickie@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_603:
+    name: 'Instytut im. J. Grotowskiego'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-101
+    street: 'Rynek-Ratusz 27'
+    tel: "\r\n                    Tel/fax: 71 343 42 67"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_604:
+    name: 'Integracja Europy. Ośrodek Spotkań Europejskich'
+    Region: Region_4
+    city: Bobrów
+    zipCode: 58-508
+    street: null
+    tel: "\r\n                    Tel/fax: 75 713 02 05"
+    email: zamek@boberstem.com
+    www: null
+    slogan: null
+    target: null
+  House_605:
+    name: 'Izba Regionalna'
+    Region: Region_4
+    city: 'Dzierżoniów,'
+    zipCode: 58-200
+    street: 'Świdnicka 30'
+    tel: "\r\n                    Tel.: 74 646 46 31"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_606:
+    name: 'Jaworski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Jawor,'
+    zipCode: 59-400
+    street: 'Rynek 5'
+    tel: "\r\n                    Tel.: 76 870 28 78"
+    email: poczta@jok.jawor.pl
+    www: null
+    slogan: null
+    target: null
+  House_607:
+    name: 'Jaworskie Stowarzyszenie Rozwoju Kultury'
+    Region: Region_4
+    city: 'Jawor,'
+    zipCode: 59-400
+    street: 'Rapackiego 1'
+    tel: "\r\n                    Tel.: 76 870 23 22"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_608:
+    name: 'Jeleniogórskie Centrum Kultury'
+    Region: Region_4
+    city: 'Jelenia Góra,'
+    zipCode: 58-500
+    street: '1 Maja 60'
+    tel: "\r\n                    Tel.: 75 642 38 80"
+    email: jck@jck.pl
+    www: null
+    slogan: null
+    target: null
+  House_609:
+    name: 'Jeleniogórskie Centrum Kultury'
+    Region: Region_4
+    city: 'Jelenia Góra,'
+    zipCode: 58-500
+    street: 'Bankowa 28/30'
+    tel: "\r\n                    Tel.: 75 647 88 84"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_610:
+    name: 'Jowisz. Dom Kultury'
+    Region: Region_4
+    city: 'Gaworzyce,'
+    zipCode: 59-180
+    street: 'Główna 1b'
+    tel: "\r\n                    Tel.: 76 831 61 00"
+    email: bk-jowisz@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_611:
+    name: 'Kalambur. Ośrodek Partnerstwa Europejskiego'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-138
+    street: 'Kuźnicza 29a'
+    tel: "\r\n                    Tel.: 71 372 35 71"
+    email: kalambur@europart.wroc.pl
+    www: null
+    slogan: null
+    target: null
+  House_616:
+    name: 'Kopernik. Spółdzielczy Dom Kultury'
+    Region: Region_4
+    city: 'Legnica,'
+    zipCode: 59-220
+    street: 'Koziorożca 9'
+    tel: "\r\n                    Tel.: 76 723 09 82"
+    email: sdkkopernik@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_617:
+    name: 'Korelat II. Spółdzielczy Dom Kultury'
+    Region: Region_4
+    city: 'Oleśnica,'
+    zipCode: 56-400
+    street: 'Kochanowskiego 5'
+    tel: "\r\n                    Tel.: 71 798 20 27"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_618:
+    name: 'Legnickie Centrum Kultury'
+    Region: Region_4
+    city: 'Legnica,'
+    zipCode: 59-220
+    street: 'Chojnowska 2'
+    tel: "\r\n                    Tel.: 76 723 37 00"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_619:
+    name: 'Lwówecki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Lwówek Śląski,'
+    zipCode: 59-600
+    street: 'Przyjaciół Żołnierza 5'
+    tel: "\r\n                    Tel/fax: 75 782 45 31"
+    email: lok@lwowekslaski.pl
+    www: null
+    slogan: null
+    target: null
+  House_620:
+    name: 'May-Art. Agencja artystyczna'
+    Region: Region_4
+    city: 'Ząbkowice Śląskie,'
+    zipCode: 57-200
+    street: 'Reymonta 14 lok. 2'
+    tel: "\r\n                    Kom.: 664 36 24 77"
+    email: info@may-art.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_621:
+    name: 'Miejski Dom Kultury'
+    Region: Region_4
+    city: 'Lubań,'
+    zipCode: 59-800
+    street: 'Kościuszki 4'
+    tel: "\r\n                    Tel.: 75 646 23 40"
+    email: mdklub@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_622:
+    name: 'Miejski Dom Kultury'
+    Region: Region_4
+    city: 'Świebodzice,'
+    zipCode: 58-160
+    street: 'Wolności 13'
+    tel: "\r\n                    Tel.: 74 666 95 70"
+    email: impresariat@mdkswiebodzice.com
+    www: null
+    slogan: null
+    target: null
+  House_623:
+    name: 'Miejski Dom Kultury'
+    Region: Region_4
+    city: 'Zgorzelec,'
+    zipCode: 59-900
+    street: 'Parkowa 1'
+    tel: "\r\n                    Tel.: 75 775 24 15"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_624:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Głogów,'
+    zipCode: 67-200
+    street: 'pl. Konstytucji 3 Maja 2'
+    tel: "\r\n                    Tel/fax: 76 833 41 40"
+    email: mokglogow@master.pl
+    www: null
+    slogan: null
+    target: null
+  House_625:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Kowary,'
+    zipCode: 58-530
+    street: 'Szkolna 2'
+    tel: "\r\n                    Tel.: 75 718 25 77"
+    email: mok@kowary.pl
+    www: null
+    slogan: null
+    target: null
+  House_626:
+    name: 'Miejski Ośrodek Kultury. Filia'
+    Region: Region_4
+    city: 'Nowa Ruda,'
+    zipCode: 57-402
+    street: 'Słupiecka 2'
+    tel: "\r\n                    Tel.: 74 872 63 91"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_627:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Nowa Ruda,'
+    zipCode: 57-400
+    street: 'Strzelecka 2a'
+    tel: "\r\n                    Tel.: 74 872 44 85"
+    email: mok@mok.nowaruda.pl
+    www: null
+    slogan: null
+    target: null
+  House_628:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Piława Górna,'
+    zipCode: 58-240
+    street: 'Piastowska 40'
+    tel: "\r\n                    Tel.: 74 837 15 96"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_629:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Szczytna,'
+    zipCode: 57-330
+    street: 'Sienkiewicza 16'
+    tel: "\r\n                    Tel/fax: 74 868 32 66"
+    email: mok@mok-szczytna.pl
+    www: null
+    slogan: null
+    target: null
+  House_630:
+    name: 'Miejski Ośrodek Kultury i Sportu'
+    Region: Region_4
+    city: 'Duszniki-Zdrój,'
+    zipCode: 57-340
+    street: 'Zdrojowa 8'
+    tel: "\r\n                    Tel.: 74 866 94 38"
+    email: mokis@mokis.duszniki.pl
+    www: null
+    slogan: null
+    target: null
+  House_631:
+    name: 'Miejski Ośrodek Kultury Sportu i Rekreacji'
+    Region: Region_4
+    city: 'Chojnów,'
+    zipCode: 59-225
+    street: 'Małachowskiego 7'
+    tel: "\r\n                    Tel.: 76 818 86 21"
+    email: mbk_chojnow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_632:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_4
+    city: 'Polanica-Zdrój,'
+    zipCode: 57-320
+    street: 'Lipowa 2'
+    tel: "\r\n                    Tel.: 74 869 06 43"
+    email: mck@polanica.pl
+    www: null
+    slogan: null
+    target: null
+  House_641:
+    name: 'Mieroszowskie Centrum Kultury'
+    Region: Region_4
+    city: 'Mieroszów,'
+    zipCode: 58-350
+    street: 'Sportowa 4'
+    tel: "\r\n                    Tel.: 74 845 83 18"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_643:
+    name: 'Młodzieżowe Centrum Kultury'
+    Region: Region_4
+    city: 'Legnica,'
+    zipCode: 59-220
+    street: 'Mickiewicza 3'
+    tel: "\r\n                    Tel.: 76 723 33 40"
+    email: mck.legnica@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_644:
+    name: 'Młodzieżowe Centrum Kultury'
+    Region: Region_4
+    city: 'Legnica,'
+    zipCode: 59-220
+    street: 'Rataja 24'
+    tel: "\r\n                    Tel.: 76 723 33 53"
+    email: legnicamck@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_653:
+    name: 'Muflon. Miejski Dom Kultury'
+    Region: Region_4
+    city: 'Jelenia Góra,'
+    zipCode: 58-560
+    street: 'Cieplicka 172'
+    tel: "\r\n                    Tel/fax: 75 755 37 70"
+    email: muftonjg@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_654:
+    name: 'Niemczański Ośrodek Kultury'
+    Region: Region_4
+    city: 'Niemcza,'
+    zipCode: 58-230
+    street: 'Rynek 32'
+    tel: "\r\n                    Tel.: 74 837 60 03"
+    email: nok@nok.niemcza.pl
+    www: null
+    slogan: null
+    target: null
+  House_655:
+    name: 'Obornicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Oborniki Śląskie,'
+    zipCode: 55-120
+    street: 'Dworcowa 26'
+    tel: "\r\n                    Tel/fax: 71 310 12 51"
+    email: ook2005@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_656:
+    name: 'Ognisko Kultury Plastycznej im. E. Gepperta'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-071
+    street: 'pl. Wolności 9'
+    tel: "\r\n                    Tel/fax: 71 344 56 94"
+    email: ogniskopla@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_658:
+    name: 'Ośrodek Kultury'
+    Region: Region_4
+    city: 'Milicz,'
+    zipCode: 56-300
+    street: 'Piłsudskiego 14'
+    tel: "\r\n                    Tel.: 71 384 11 24"
+    email: '<span class="hitHighlight">kultura</span>-milicz@o'
+    www: null
+    slogan: null
+    target: null
+  House_659:
+    name: 'Ośrodek Kultury'
+    Region: Region_4
+    city: 'Oława,'
+    zipCode: 55-200
+    street: '11 Listopada 27'
+    tel: "\r\n                    Tel.: 71 313 28 29"
+    email: olawa.ok@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_660:
+    name: 'Ośrodek Kultury'
+    Region: Region_4
+    city: 'Strzelin,'
+    zipCode: 57-100
+    street: 'Brzegowa 10a'
+    tel: "\r\n                    Tel/fax: 71 392 15 43"
+    email: '<span class="hitHighlight">kultura</span>@strzelin'
+    www: null
+    slogan: null
+    target: null
+  House_661:
+    name: 'Ośrodek Kultury'
+    Region: Region_4
+    city: 'Zawidów,'
+    zipCode: 59-970
+    street: 'Zgorzelecka 39'
+    tel: "\r\n                    Tel.: 75 778 83 36"
+    email: ok.zawidow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_662:
+    name: 'Ośrodek Kultury Chrześcijańskiej'
+    Region: Region_4
+    city: 'Sulistrowiczki,'
+    zipCode: 55-050
+    street: 'Słoneczna 2'
+    tel: "\r\n                    Tel.: 71 391 27 21"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_663:
+    name: 'Ośrodek Kultury. Filia'
+    Region: Region_4
+    city: 'Witków,'
+    zipCode: 58-373
+    street: '13'
+    tel: "\r\n                    Tel.: 74 880 31 82"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_664:
+    name: 'Ośrodek Kultury Gminy Kłodzko. Siedziba'
+    Region: Region_4
+    city: 'Ołdrzychowice Kłodzkie,'
+    zipCode: 57-360
+    street: 'Kłodzka 20'
+    tel: "\r\n                    Tel.: 74 868 92 42"
+    email: okgkoldrzychowice@poczta.fm
+    www: null
+    slogan: null
+    target: null
+  House_665:
+    name: 'Ośrodek Kultury i Sportu'
+    Region: Region_4
+    city: 'Leśna,'
+    zipCode: 59-820
+    street: 'Świerczewskiego 5a'
+    tel: "\r\n                    Tel.: 75 721 15 79"
+    email: okis@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_666:
+    name: 'Ośrodek Kultury i Sportu'
+    Region: Region_4
+    city: 'Lubomierz,'
+    zipCode: 59-623
+    street: 'pl. Wolności 50'
+    tel: "\r\n                    Tel.: 75 783 31 85"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_667:
+    name: 'Ośrodek Kultury i Sztuki'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-101
+    street: 'Rynek-Ratusz 24'
+    tel: "\r\n                    Tel.: 71 344 28 64"
+    email: okis@okis.pl
+    www: null
+    slogan: null
+    target: null
+  House_668:
+    name: 'Ośrodek Kultury Niderlandzkiej Uniwersytetu Wrocławskiego'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-145
+    street: 'Uniwersytecka 28a'
+    tel: "\r\n                    Tel.: 71 372 41 29"
+    email: okn@uni.wroc.pl
+    www: null
+    slogan: null
+    target: null
+  House_669:
+    name: 'Ośrodek Kultury, Sportu i Rekreacji'
+    Region: Region_4
+    city: 'Wisznia Mała,'
+    zipCode: 55-114
+    street: 'Szkolna 1'
+    tel: "\r\n                    Tel/fax: 71 312 70 76"
+    email: oksir@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_670:
+    name: 'Ośrodek Kultury, Sportu i Turystyki'
+    Region: Region_4
+    city: 'Wleń,'
+    zipCode: 59-610
+    street: 'Chopina 2'
+    tel: "\r\n                    Tel.: 75 713 62 68"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_671:
+    name: 'Ośrodek Kultury Turystyki Górskiej Sudetów PTTK'
+    Region: Region_4
+    city: 'Międzygórze,'
+    zipCode: 57-522
+    street: 'Powstańców Śląskich'
+    tel: "\r\n                    Tel.: 74 813 51 56"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_672:
+    name: 'Ośrodek Kultury w Miliczu. Filia'
+    Region: Region_4
+    city: 'Sułów,'
+    zipCode: null
+    street: 'Rynek 12'
+    tel: "\r\n                    Tel.: 71 384 77 00"
+    email: oksulow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_673:
+    name: 'Ośrodek Postaw Twórczych'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-538
+    street: 'Działkowa 15'
+    tel: "\r\n                    Tel/fax: 71 364 27 65"
+    email: info@opt-art.net
+    www: null
+    slogan: null
+    target: null
+  House_674:
+    name: 'Pamięć i Przyszłość. Ośrodek'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-055
+    street: 'Teatralna 10-12 lok. 316 IIIp.'
+    tel: "\r\n                    Tel.: 71 334 90 44"
+    email: biuro@pamieciprzyszlosc.pl
+    www: null
+    slogan: null
+    target: null
+  House_675:
+    name: 'Piast. Ośrodek Działań Społeczno - Kulturalnych'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 54-135
+    street: 'Rękodzielnicza 1'
+    tel: "\r\n                    Tel.: 71 353 68 23"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_676:
+    name: 'Piechowicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Piechowice,'
+    zipCode: 58-573
+    street: 'Żymierskiego 53'
+    tel: "\r\n                    Tel.: 75 761 74 55"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_677:
+    name: 'Powiatowe Centrum Edukacji i Kultury'
+    Region: Region_4
+    city: 'Oleśnica,'
+    zipCode: 56-400
+    street: 'Wojska Polskiego 56'
+    tel: "\r\n                    Tel/fax: 71 314 01 72"
+    email: sekretariat@pceik.mazura.pl
+    www: null
+    slogan: null
+    target: null
+  House_678:
+    name: 'Prochowicki Ośrodek Kultury i Sportu'
+    Region: Region_4
+    city: 'Prochowice,'
+    zipCode: 59-230
+    street: 'Miarki 5'
+    tel: "\r\n                    Tel.: 76 858 53 09"
+    email: 'pokis_<span class="hitHighlight">kultura</span>@wp'
+    www: null
+    slogan: null
+    target: null
+  House_679:
+    name: 'Pro-Transfer. Gędłek W.'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 51-167
+    street: 'Przejazdowa 14 lok. 8'
+    tel: "\r\n                    Tel.: 71 325 22 60"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_680:
+    name: 'Przemkowski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Przemków,'
+    zipCode: 59-170
+    street: 'Głogowska 17'
+    tel: "\r\n                    Tel.: 76 831 94 93"
+    email: pok.przemkow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_681:
+    name: 'Regionalne Centrum Edukacji Ekologicznej'
+    Region: Region_4
+    city: 'Lubań,'
+    zipCode: 59-800
+    street: Rynek
+    tel: "\r\n                    Tel/fax: 75 722 68 35"
+    email: eko@luban.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_683:
+    name: 'Samorządowy Ośrodek Kultury'
+    Region: Region_4
+    city: 'Miękinia,'
+    zipCode: 55-330
+    street: 'Kościuszki 41'
+    tel: "\r\n                    Tel.: 71 317 87 90"
+    email: '<span class="hitHighlight">kultura</span>@miekinia'
+    www: null
+    slogan: null
+    target: null
+  House_684:
+    name: 'Społeczne Ognisko Muzyczne'
+    Region: Region_4
+    city: 'Cieszków,'
+    zipCode: 56-330
+    street: 'Sikorskiego 35'
+    tel: "\r\n                    Tel.: 71 384 81 42"
+    email: gckcieszkow@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_685:
+    name: 'Spółdzielcze Centrum Kultury'
+    Region: Region_4
+    city: 'Bielawa,'
+    zipCode: 58-260
+    street: 'Jana III Sobieskiego 17'
+    tel: "\r\n                    Tel.: 74 833 45 78"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_686:
+    name: 'Stara Kopalnia'
+    Region: Region_4
+    city: 'Wałbrzych,'
+    zipCode: 58-304
+    street: 'Wysockiego 29'
+    tel: "\r\n                    Tel/fax: 74 664 60 35"
+    email: starakopalnia@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_687:
+    name: 'Ślężański Ośrodek Kultury'
+    Region: Region_4
+    city: 'Sobótka,'
+    zipCode: 55-050
+    street: 'Chopina 25'
+    tel: "\r\n                    Tel/fax: 71 316 22 40"
+    email: sok@sobotka.pl
+    www: null
+    slogan: null
+    target: null
+  House_688:
+    name: 'Światowid. Ośrodek Działań Twórczych'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 51-661
+    street: 'Sempołowskiej 54a'
+    tel: "\r\n                    Tel.: 71 348 30 10"
+    email: odt@swiatowid.net.pl
+    www: null
+    slogan: null
+    target: null
+  House_689:
+    name: 'Świdnicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Świdnica,'
+    zipCode: 58-100
+    street: 'Rynek 43'
+    tel: "\r\n                    Tel.: 74 852 13 37"
+    email: sok@sok.com.pl
+    www: null
+    slogan: null
+    target: null
+  House_710:
+    name: 'Wałbrzyski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Wałbrzych,'
+    zipCode: 58-309
+    street: 'gen. Andersa 185'
+    tel: "\r\n                    Tel/fax: 74 666 43 51"
+    email: sekretariat@wok.walbrzych.pl
+    www: null
+    slogan: null
+    target: null
+  House_711:
+    name: 'Warta Bolesławiecka. Gminne centrum kultury'
+    Region: Region_4
+    city: 'Raciborowice Górne,'
+    zipCode: 59-720
+    street: 29b
+    tel: "\r\n                    Tel.: 75 731 01 71"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_720:
+    name: 'Wołowski Ośrodek Kultury'
+    Region: Region_4
+    city: 'Wołów,'
+    zipCode: 56-100
+    street: 'Sikorskiego 6'
+    tel: "\r\n                    Tel/fax: 71 389 14 42"
+    email: wokwolow@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_721:
+    name: 'Wratislavia Cantans'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-106
+    street: 'Rynek 7'
+    tel: "\r\n                    Tel.: 71 342 72 57"
+    email: office@art.pl
+    www: null
+    slogan: null
+    target: null
+  House_722:
+    name: 'WRO. Centrum Sztuki Mediów'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-138
+    street: 'Widok 7'
+    tel: "\r\n                    Tel/fax: 71 342 26 91"
+    email: biuro@wrocenter.pl
+    www: null
+    slogan: null
+    target: null
+  House_723:
+    name: 'Wrocławskie Centrum Twórczości Dziecka'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 50-138
+    street: 'Kuźnicza 29a'
+    tel: "\r\n                    Tel.: 71 341 71 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_724:
+    name: 'Wzgórze Zamkowe. Ośrodek Kultury'
+    Region: Region_4
+    city: 'Lubin,'
+    zipCode: 59-300
+    street: 'Pruzi 7-9'
+    tel: "\r\n                    Tel.: 76 749 69 69"
+    email: wzgorzezamkowe@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_725:
+    name: 'Zamek. Centrum Kultury'
+    Region: Region_4
+    city: 'Wrocław,'
+    zipCode: 54-076
+    street: 'pl. Świętojański 1'
+    tel: "\r\n                    Tel/fax: 71 349 35 36"
+    email: centrum@zamek.wroclaw.pl
+    www: null
+    slogan: null
+    target: null
+  House_726:
+    name: 'Ząbkowicki Ośrodek Kultury'
+    Region: Region_4
+    city: 'Ząbkowice Śląskie,'
+    zipCode: 57-200
+    street: 'Rynek 24'
+    tel: "\r\n                    Tel.: 74 815 28 96"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_727:
+    name: 'Zespół Placówek Kultury'
+    Region: Region_4
+    city: 'Trzebnica,'
+    zipCode: 55-100
+    street: 'Prusicka 12'
+    tel: "\r\n                    Tel.: 71 312 09 47"
+    email: tok.trzebnica@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_728:
+    name: 'Zespół Placówek Kultury'
+    Region: Region_4
+    city: 'Wąsosz,'
+    zipCode: 56-210
+    street: 'Świerczewskiego 31'
+    tel: "\r\n                    Tel.: 65 543 79 36"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_729:
+    name: 'Zespół Placówek Kultury'
+    Region: Region_4
+    city: 'Żmigród,'
+    zipCode: 55-140
+    street: 'Wrocławska 12'
+    tel: "\r\n                    Tel.: 71 385 31 34"
+    email: zpk2001@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_730:
+    name: 'Ziębickie Centrum Kultury'
+    Region: Region_4
+    city: 'Ziębice,'
+    zipCode: 57-220
+    street: 'Wojska Polskiego 10'
+    tel: "\r\n                    Tel.: 74 819 12 19"
+    email: zck@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_731:
+    name: 'Złotoryjski Ośrodek Kultury i Rekreacji'
+    Region: Region_4
+    city: 'Złotoryja,'
+    zipCode: 59-500
+    street: 'pl. Reymonta 5'
+    tel: "\r\n                    Tel.: 76 878 33 74"
+    email: zok@bbk.pl
+    www: null
+    slogan: null
+    target: null
+  House_732:
+    name: 'Miejski Dom Kultury'
+    Region: Region_5
+    city: 'Orneta,'
+    zipCode: 11-130
+    street: '1 Maja 41'
+    tel: "\r\n                    Tel.: 55 242 10 39<span clas"
+    email: ornetamdk@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_733:
+    name: 'Agora. Dom Kultury Spółdzielni Mieszkaniowej Pojezierze'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-560
+    street: 'Żołnierska 45a'
+    tel: "\r\n                    Tel.: 89 533 43 99"
+    email: sdkagora@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_734:
+    name: 'Akademickie Centrum Kultury'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-722
+    street: 'Kanafojskiego 1 lok. 8'
+    tel: "\r\n                    Tel.: 89 523 32 36"
+    email: ack@uwu.edu.pl
+    www: null
+    slogan: null
+    target: null
+  House_736:
+    name: 'Akces. Spółdzielczy Dom Kultury'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-461
+    street: 'Pana Tadeusza 6a'
+    tel: "\r\n                    Tel/fax: 89 534 18 82"
+    email: klub.akces@smp.olsztyn.pl
+    www: null
+    slogan: null
+    target: null
+  House_737:
+    name: 'Alternatywa. Dom Kultury'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-080
+    street: 'Profesorska 15'
+    tel: "\r\n                    Tel.: 89 527 69 19"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_738:
+    name: 'Bartoszycki Dom Kultury'
+    Region: Region_5
+    city: 'Bartoszyce,'
+    zipCode: 11-200
+    street: 'Bohaterów Warszawy 11'
+    tel: "\r\n                    Tel/fax: 89 762 23 89"
+    email: bdk.bartoszyce@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_739:
+    name: 'Biskupiecki Dom Kultury'
+    Region: Region_5
+    city: 'Biskupiec,'
+    zipCode: 11-300
+    street: 'Matejki 5'
+    tel: "\r\n                    Tel/fax: 89 715 26 95"
+    email: bdk.bdk@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_740:
+    name: 'Centrum Kultury'
+    Region: Region_5
+    city: 'Dobre Miasto,'
+    zipCode: 11-040
+    street: 'Grudziądzka 9b'
+    tel: "\r\n                    Tel/fax: 89 616 15 91"
+    email: dm@centrumkultury.pl
+    www: null
+    slogan: null
+    target: null
+  House_741:
+    name: 'Centrum Kultury'
+    Region: Region_5
+    city: 'Ostróda,'
+    zipCode: 14-100
+    street: 'Mickiewicza 22'
+    tel: "\r\n                    Tel/fax: 89 646 32 31"
+    email: cks@um.ostroda.pl
+    www: null
+    slogan: null
+    target: null
+  House_742:
+    name: 'Centrum Kultury i Promocji Gminy'
+    Region: Region_5
+    city: 'Barczewo,'
+    zipCode: 11-010
+    street: 'Słowackiego 5'
+    tel: "\r\n                    Tel.: 89 514 82 81"
+    email: moksit@barczewo.pl
+    www: null
+    slogan: null
+    target: null
+  House_743:
+    name: 'Centrum Kultury i Sportu Gminy Ełk. Siedziba'
+    Region: Region_5
+    city: 'Straduny,'
+    zipCode: 19-300
+    street: 'Kajki 10'
+    tel: "\r\n                    Tel.: 87 619 66 66"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_744:
+    name: 'Centrum Kultury i Turystyki'
+    Region: Region_5
+    city: 'Mrągowo,'
+    zipCode: 11-700
+    street: 'Warszawska 26'
+    tel: "\r\n                    Tel.: 89 743 34 50"
+    email: ckit@ckit.mragowo.pl
+    www: null
+    slogan: null
+    target: null
+  House_745:
+    name: 'Dom Kultury'
+    Region: Region_5
+    city: Bezledy
+    zipCode: 11-200
+    street: null
+    tel: "\r\n                    Tel.: 89 761 60 24"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_746:
+    name: 'Dom Kultury'
+    Region: Region_5
+    city: 'Gołdap,'
+    zipCode: 19-500
+    street: 'Krótka 2'
+    tel: "\r\n                    Tel/fax: 87 615 34 93"
+    email: dkgoldap@tlen.pl
+    www: null
+    slogan: null
+    target: null
+  House_747:
+    name: 'Dom Kultury'
+    Region: Region_5
+    city: 'Orzysz,'
+    zipCode: 12-250
+    street: 'Wojska Polskiego 5'
+    tel: "\r\n                    Tel.: 87 423 70 10"
+    email: 'dom.<span class="hitHighlight">kultury</span>@orzy'
+    www: null
+    slogan: null
+    target: null
+  House_748:
+    name: 'Dom Kultury'
+    Region: Region_5
+    city: 'Ruciane-Nida,'
+    zipCode: 12-220
+    street: 'Gwarna 2a'
+    tel: "\r\n                    Tel.: 87 423 10 33"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_749:
+    name: 'Ełckie Centrum Kultury'
+    Region: Region_5
+    city: 'Ełk,'
+    zipCode: 19-300
+    street: 'Wojska Polskiego 47'
+    tel: "\r\n                    Tel.: 87 621 52 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_750:
+    name: 'Giżyckie Centrum Kultury'
+    Region: Region_5
+    city: 'Giżycko,'
+    zipCode: 11-500
+    street: 'Konarskiego 8'
+    tel: "\r\n                    Tel/fax: 87 428 16 37"
+    email: info@gizyckiecentrumkultury.pl
+    www: null
+    slogan: null
+    target: null
+  House_751:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_5
+    city: 'Lelkowo,'
+    zipCode: 14-521
+    street: '17'
+    tel: "\r\n                    Tel.: 55 244 81 69"
+    email: gcklel@wbp.olsztyn.pl
+    www: null
+    slogan: null
+    target: null
+  House_752:
+    name: 'Gminne Centrum Kultury i Sportu'
+    Region: Region_5
+    city: 'Kowale Oleckie,'
+    zipCode: 19-420
+    street: 'Kościuszki 46'
+    tel: "\r\n                    Tel/fax: 87 523 89 47"
+    email: gckis@fr.pl
+    www: null
+    slogan: null
+    target: null
+  House_787:
+    name: 'Iławskie Centrum Kultury'
+    Region: Region_5
+    city: 'Iława,'
+    zipCode: 14-200
+    street: 'Niepodległości 13a'
+    tel: "\r\n                    Tel.: 89 649 16 31"
+    email: imprezy@ickilawa.pl
+    www: null
+    slogan: null
+    target: null
+  House_788:
+    name: 'Kętrzyńskie Centrum Kultury'
+    Region: Region_5
+    city: 'Kętrzyn,'
+    zipCode: 11-400
+    street: 'gen. Sikorskiego 24a'
+    tel: "\r\n                    Tel.: 89 751 25 53"
+    email: kck.ketrzyn@neostrada.pl
+    www: null
+    slogan: null
+    target: null
+  House_789:
+    name: 'Kłobuk. Centrum kultury'
+    Region: Region_5
+    city: 'Mikołajki,'
+    zipCode: 11-730
+    street: 'Kolejowa 6'
+    tel: "\r\n                    Tel/fax: 87 421 64 51"
+    email: bibliotekamikolajki@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_790:
+    name: 'Lidzbarski Dom Kultury'
+    Region: Region_5
+    city: 'Lidzbark Warmiński,'
+    zipCode: 11-100
+    street: 'Słowackiego 4'
+    tel: "\r\n                    Tel.: 89 767 26 88"
+    email: ldk@lidzbark.wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_791:
+    name: 'Mazury Garbate. Regionalny Ośrodek Kultury'
+    Region: Region_5
+    city: 'Olecko,'
+    zipCode: 19-400
+    street: 'Plac Wolności 22'
+    tel: "\r\n                    Tel/fax: 87 520 20 59"
+    email: rok@przystanek.pl
+    www: null
+    slogan: null
+    target: null
+  House_792:
+    name: 'Miejski Dom Kultury'
+    Region: Region_5
+    city: 'Działdowo,'
+    zipCode: 13-200
+    street: 'Władysława Jagiełły 13'
+    tel: "\r\n                    Tel/fax: 23 697 21 92"
+    email: mdkdzialdowo@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_793:
+    name: 'Miejski Dom Kultury'
+    Region: Region_5
+    city: 'Szczytno,'
+    zipCode: 12-100
+    street: 'Polska 12'
+    tel: "\r\n                    Tel.: 89 624 35 59"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_794:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Jeziorany,'
+    zipCode: 11-320
+    street: 'Konopnickiej 4'
+    tel: "\r\n                    Tel/fax: 89 718 12 16"
+    email: mok-jny@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_795:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Lubawa,'
+    zipCode: 14-260
+    street: 'Rzepnikowskiego 44'
+    tel: "\r\n                    Tel.: 89 645 26 68"
+    email: moklubawa@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_796:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-030
+    street: 'Rodziewiczówny 3'
+    tel: "\r\n                    Tel.: 89 527 09 64"
+    email: dyrekcja@mok.olsztyn.pl
+    www: null
+    slogan: null
+    target: null
+  House_797:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Pasym,'
+    zipCode: 12-130
+    street: 'Rynek 10a'
+    tel: "\r\n                    Tel.: 89 621 20 79"
+    email: mokispasym@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_798:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Reszel,'
+    zipCode: 11-440
+    street: 'Mickiewicza 4'
+    tel: "\r\n                    Tel.: 89 755 00 65"
+    email: mok_reszel@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_799:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_5
+    city: 'Nowe Miasto Lubawskie,'
+    zipCode: 13-300
+    street: '19 Stycznia 17a'
+    tel: "\r\n                    Tel/fax: 56 474 28 24"
+    email: mck@mcknml.pl
+    www: null
+    slogan: null
+    target: null
+  House_800:
+    name: 'Miejsko - Gminne Centrum Kultury'
+    Region: Region_5
+    city: 'Zalewo,'
+    zipCode: 14-230
+    street: 'Traugutta 20'
+    tel: "\r\n                    Tel/fax: 89 758 83 82"
+    email: mgckis@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_808:
+    name: 'Miłakowski Dom Kultury'
+    Region: Region_5
+    city: 'Miłakowo,'
+    zipCode: 14-310
+    street: 'Włodyki 20'
+    tel: "\r\n                    Tel.: 89 758 71 14"
+    email: mdkmilakowo@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_813:
+    name: 'Morąski Dom Kultury i Sportu'
+    Region: Region_5
+    city: 'Morąg,'
+    zipCode: 14-300
+    street: 'Mickiewicza 19'
+    tel: "\r\n                    Tel.: 89 757 26 40"
+    email: mdk.morag@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_815:
+    name: 'Nidzicki Ośrodek Kultury'
+    Region: Region_5
+    city: 'Nidzica,'
+    zipCode: 13-100
+    street: 'Zamkowa 2'
+    tel: "\r\n                    Tel.: 89 625 42 21"
+    email: nidzickiosrodekkultury@poczta.fm
+    www: www.nok.nidzica.pl
+    slogan: null
+    target: null
+  House_816:
+    name: 'Ośrodek Kultury'
+    Region: Region_5
+    city: 'Górowo Iławeckie,'
+    zipCode: 11-220
+    street: 'Kościuszki 26'
+    tel: "\r\n                    Tel.: 89 761 17 78"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_817:
+    name: 'Ośrodek Kultury'
+    Region: Region_5
+    city: 'Miłki,'
+    zipCode: 11-513
+    street: 'Szkolna 1b'
+    tel: "\r\n                    Tel.: 87 421 11 56"
+    email: osrodekkulturymilki@gmail.com
+    www: null
+    slogan: null
+    target: null
+  House_818:
+    name: 'Ośrodek Kultury'
+    Region: Region_5
+    city: 'Młynary,'
+    zipCode: 14-420
+    street: 'Dworcowa 10'
+    tel: "\r\n                    Tel.: 55 248 60 50"
+    email: oksir@elblag.net
+    www: null
+    slogan: null
+    target: null
+  House_819:
+    name: 'Ośrodek Kultury i Aktywności Lokalnej'
+    Region: Region_5
+    city: 'Bisztynek,'
+    zipCode: 11-230
+    street: 'Ogrodowa 2'
+    tel: "\r\n                    Tel.: 89 718 80 67"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_820:
+    name: 'Pałac Młodzieży'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-562
+    street: 'Plater 3'
+    tel: "\r\n                    Tel.: 89 527 32 69"
+    email: palac5@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_821:
+    name: 'Pasłęcki Ośrodek Kultury'
+    Region: Region_5
+    city: 'Pasłęk,'
+    zipCode: 14-400
+    street: 'pl. św. Wojciecha 5'
+    tel: "\r\n                    Tel.: 55 248 31 21"
+    email: pokpaslek1@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_823:
+    name: 'Piski Dom Kultury'
+    Region: Region_5
+    city: 'Pisz,'
+    zipCode: 12-200
+    street: 'pl. Daszyńskiego 16'
+    tel: "\r\n                    Tel/fax: 87 423 26 75"
+    email: pdkpisz@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_824:
+    name: 'Promyk. Centrum Tańca'
+    Region: Region_5
+    city: 'Elbląg,'
+    zipCode: 82-300
+    street: 'Browarna 80'
+    tel: "\r\n                    Tel.: 55 611 01 30"
+    email: sekretariat@swiatowit.elblag.pl
+    www: null
+    slogan: null
+    target: null
+  House_825:
+    name: 'Ryńskie Centrum Kultury'
+    Region: Region_5
+    city: 'Ryn,'
+    zipCode: 11-520
+    street: 'Sawickiej 1'
+    tel: "\r\n                    Tel.: 87 421 80 61"
+    email: rck-it@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_826:
+    name: 'Spichlerz Miejskiego Ośrodka Kultury'
+    Region: Region_5
+    city: 'Olsztyn,'
+    zipCode: 10-900
+    street: 'Piastowska 13'
+    tel: "\r\n                    Tel.: 89 535 24 66"
+    email: szpichlerz@mok.olsztyn.pl
+    www: null
+    slogan: null
+    target: null
+  House_827:
+    name: 'Społeczne Ognisko Artystyczne'
+    Region: Region_5
+    city: 'Nowe Miasto Lubawskie,'
+    zipCode: 13-300
+    street: '19 Stycznia 17a'
+    tel: "\r\n                    Tel.: 56 472 44 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_828:
+    name: 'Spółdzielczy Dom Kultury Spółdzielni Mieszkaniowej Świt'
+    Region: Region_5
+    city: 'Ełk,'
+    zipCode: 19-300
+    street: 'Grodzieńska 10'
+    tel: "\r\n                    Tel.: 87 621 67 99"
+    email: sdk.smswit@elk.pl
+    www: null
+    slogan: null
+    target: null
+  House_829:
+    name: 'Suski Ośrodek Kultury'
+    Region: Region_5
+    city: 'Susz,'
+    zipCode: 14-240
+    street: 'Piastowska 5c'
+    tel: "\r\n                    Tel/fax: 55 278 61 16"
+    email: sok_susz@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_830:
+    name: 'Szkolny Ośrodek Kultury Zespołu Szkół im. Bohaterów Września 1939 r.'
+    Region: Region_5
+    city: 'Iława,'
+    zipCode: 14-200
+    street: 'Jana III Sobieskiego 3'
+    tel: "\r\n                    Tel.: 89 648 33 98"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_831:
+    name: 'Światowid. Centrum Spotkań Europejskich'
+    Region: Region_5
+    city: 'Elbląg,'
+    zipCode: 82-300
+    street: 'pl. Kazimierza Jagiellończyka 1'
+    tel: "\r\n                    Tel.: 55 611 20 50"
+    email: sekretariat@swiatowid.elblag.pl
+    www: null
+    slogan: null
+    target: null
+  House_832:
+    name: 'Węgorzewskie Centrum Kultury'
+    Region: Region_5
+    city: 'Węgorzewo,'
+    zipCode: 11-600
+    street: 'gen. Bema 14'
+    tel: "\r\n                    Tel/fax: 87 427 26 41"
+    email: wckip@wegorzewo.pl
+    www: null
+    slogan: null
+    target: null
+  House_839:
+    name: 'Dom Kultury. Sekcje i zespoły artystyczne'
+    Region: Region_6
+    city: 'Miejsce Piastowe,'
+    zipCode: 38-430
+    street: 'Dukielska 2b'
+    tel: "\r\n                    Tel/fax: 13 435 30 74"
+    email: gokmpiastowe@op.pl
+    www: www.gokmp.net
+    slogan: ' Zakres działalności: Dom Kultury. Sekcje i zespoły artystyczne...gokmpiastowe@op.pl Branża: Kultura, sztuka - ośrodki.'
+    target: null
+  House_840:
+    name: 'Arka. Katolicki dom kultury'
+    Region: Region_6
+    city: 'Racławice,'
+    zipCode: 37-400
+    street: 'Rudnicka 108'
+    tel: "\r\n                    Tel/fax: 15 841 39 00"
+    email: arkaraclawice@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_841:
+    name: 'Białobrzegi. Dom Kultury'
+    Region: Region_6
+    city: 'Krosno,'
+    zipCode: 38-400
+    street: 'Kopernika 10'
+    tel: "\r\n                    Tel.: 13 436 61 45"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_842:
+    name: 'Bieszczadzki Dom Kultury'
+    Region: Region_6
+    city: 'Lesko,'
+    zipCode: 38-600
+    street: 'Piłsudskiego 1'
+    tel: "\r\n                    Tel/fax: 13 469 66 82"
+    email: bdk_lesko@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_843:
+    name: 'Centrum Kulturalne'
+    Region: Region_6
+    city: 'Przemyśl,'
+    zipCode: 37-700
+    street: 'Konarskiego 9'
+    tel: "\r\n                    Tel.: 16 678 35 50"
+    email: ck@ck.przemysl.pl
+    www: null
+    slogan: null
+    target: null
+  House_844:
+    name: 'Centrum Kultury'
+    Region: Region_6
+    city: 'Kamień,'
+    zipCode: 36-053
+    street: '301'
+    tel: "\r\n                    Tel.: 17 855 60 53"
+    email: ck.kamien@vp.pl
+    www: null
+    slogan: null
+    target: null
+  House_845:
+    name: 'Centrum Kultury Gminy Łańcut'
+    Region: Region_6
+    city: 'Łańcut,'
+    zipCode: 37-100
+    street: 'Wysoka 49'
+    tel: "\r\n                    Tel.: 17 225 65 37"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_846:
+    name: 'Centrum Kultury'
+    Region: Region_6
+    city: 'Ropczyce,'
+    zipCode: 39-100
+    street: 'Bursztyna 1'
+    tel: "\r\n                    Tel.: 17 221 82 28"
+    email: ck@ropczyce.info.pl
+    www: null
+    slogan: null
+    target: null
+  House_847:
+    name: 'Centrum kultury'
+    Region: Region_6
+    city: 'Zarzecze,'
+    zipCode: 37-205
+    street: '1'
+    tel: "\r\n                    Tel.: 16 640 15 14"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_848:
+    name: 'Centrum Kultury i Czytelnictwa'
+    Region: Region_6
+    city: 'Brzostek,'
+    zipCode: 39-230
+    street: '20 Czerwca 4'
+    tel: "\r\n                    Tel.: 14 683 03 15"
+    email: ckicz_brzostek@konto.pl
+    www: null
+    slogan: null
+    target: null
+  House_849:
+    name: 'Centrum Kultury i Sportu'
+    Region: Region_6
+    city: 'Cieszanów,'
+    zipCode: 37-611
+    street: 'Kościuszki 4'
+    tel: "\r\n                    Tel.: 16 631 10 95"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_850:
+    name: 'Country. Dom Ludowy'
+    Region: Region_6
+    city: 'Rzeszów,'
+    zipCode: 35-317
+    street: 'Herbowa 3'
+    tel: "\r\n                    Tel.: 17 229 97 41"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_851:
+    name: 'Dom Kultury Spółdzielni Mieszkaniowej Osiedla 1000-Lecia'
+    Region: Region_6
+    city: 'Rzeszów,'
+    zipCode: 35-201
+    street: 'Kochanowskiego 29'
+    tel: "\r\n                    Tel.: 17 853 64 66"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_852:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Bukowsko,'
+    zipCode: 38-506
+    street: '92'
+    tel: "\r\n                    Tel.: 13 466 40 29"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_853:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Chałupki Dębniańskie'
+    zipCode: 37-305
+    street: null
+    tel: "\r\n                    Tel.: 17 243 52 33"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_854:
+    name: 'Dom Kultury firmy Dębica SA'
+    Region: Region_6
+    city: 'Dębica,'
+    zipCode: 39-200
+    street: 'Lisa 3'
+    tel: "\r\n                    Tel.: 14 680 02 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_855:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Głogów Małopolski,'
+    zipCode: 36-060
+    street: 'kard. Wyszyńskiego 16'
+    tel: "\r\n                    Tel.: 17 851 73 35"
+    email: gdkib@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_856:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Kolbuszowa Górna'
+    zipCode: 36-100
+    street: null
+    tel: "\r\n                    Tel.: 17 227 20 38"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_857:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Majdan Sieniawski'
+    zipCode: 37-534
+    street: null
+    tel: "\r\n                    Tel.: 16 622 91 21"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_858:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: Małkowice
+    zipCode: 37-716
+    street: null
+    tel: "\r\n                    Tel.: 16 671 24 46"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_859:
+    name: 'Dom Kultury Mieleckiej Spółdzielni Mieszkaniowej. Filia'
+    Region: Region_6
+    city: 'Mielec,'
+    zipCode: 39-300
+    street: 'Botaniczna 1'
+    tel: "\r\n                    Tel.: 17 788 31 86"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_860:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Niziny,'
+    zipCode: 37-716
+    street: '1'
+    tel: "\r\n                    Tel.: 16 671 28 63"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_861:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Odrzykoń,'
+    zipCode: 38-406
+    street: 'Władysława Jagiełły 1'
+    tel: "\r\n                    Tel.: 13 431 17 78"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_862:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Pilzno,'
+    zipCode: 39-220
+    street: 'Węgierska 30'
+    tel: "\r\n                    Tel.: 14 672 10 27"
+    email: dkpilzno@poczta.fm
+    www: null
+    slogan: null
+    target: null
+  House_863:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: Piskorowice
+    zipCode: 37-300
+    street: null
+    tel: "\r\n                    Tel.: 17 243 20 65"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_864:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Pysznica,'
+    zipCode: 37-403
+    street: 'Wolności 277'
+    tel: "\r\n                    Tel.: 15 841 00 48"
+    email: dk@pysznica.pl
+    www: null
+    slogan: null
+    target: null
+  House_865:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: 'Stara Jastrząbka'
+    zipCode: 39-216
+    street: null
+    tel: "\r\n                    Tel.: 14 682 55 04"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_866:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: Trójczyce
+    zipCode: 37-714
+    street: null
+    tel: "\r\n                    Tel.: 16 671 21 32"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_867:
+    name: 'Dom Kultury'
+    Region: Region_6
+    city: Wierzawice
+    zipCode: 37-300
+    street: null
+    tel: "\r\n                    Tel.: 17 242 41 50"
+    email: gokw@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_868:
+    name: 'Dom Kultury Dzielnicowy'
+    Region: Region_6
+    city: 'Krosno,'
+    zipCode: 38-400
+    street: 'Grunwaldzka 4'
+    tel: "\r\n                    Tel.: 13 432 48 77"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_869:
+    name: 'Dom Kultury Spółdzielni Mieszkaniowej. Filia'
+    Region: Region_6
+    city: 'Mielec,'
+    zipCode: 39-300
+    street: 'Bajana 20'
+    tel: "\r\n                    Tel.: 17 585 21 02"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_871:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Batycze
+    zipCode: 37-713
+    street: null
+    tel: "\r\n                    Tel.: 16 671 78 98"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_872:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Borek Stary,'
+    zipCode: 36-020
+    street: '84'
+    tel: "\r\n                    Tel.: 17 229 80 72"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_873:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Brzezowa
+    zipCode: 38-230
+    street: null
+    tel: "\r\n                    Tel.: 13 441 54 27"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_874:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Brzezówka
+    zipCode: 36-024
+    street: null
+    tel: "\r\n                    Tel.: 17 229 52 75"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_875:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Długie
+    zipCode: 38-460
+    street: null
+    tel: "\r\n                    Tel.: 13 435 23 59"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_876:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Dobieszyn
+    zipCode: 38-460
+    street: null
+    tel: "\r\n                    Tel.: 13 435 25 61"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_877:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Dobrzechów
+    zipCode: 38-122
+    street: null
+    tel: "\r\n                    Tel.: 17 276 60 24"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_878:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Duńkowiczki
+    zipCode: 37-716
+    street: null
+    tel: "\r\n                    Tel.: 16 672 40 10"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_879:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Hermanowa
+    zipCode: 36-020
+    street: null
+    tel: "\r\n                    Tel.: 17 229 94 66"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_880:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Hnatkowice
+    zipCode: 37-714
+    street: null
+    tel: "\r\n                    Tel.: 16 671 27 24"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_881:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Hucisko
+    zipCode: 36-003
+    street: null
+    tel: "\r\n                    Tel.: 17 851 00 98"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_882:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Jabłonica
+    zipCode: 38-200
+    street: null
+    tel: "\r\n                    Tel.: 13 449 31 88"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_883:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Jabłonica Polska'
+    zipCode: 36-213
+    street: null
+    tel: "\r\n                    Tel.: 13 439 19 36"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_884:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Jasionów
+    zipCode: 36-211
+    street: null
+    tel: "\r\n                    Tel.: 13 439 32 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_885:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Jurowce
+    zipCode: 38-507
+    street: null
+    tel: "\r\n                    Tel.: 13 462 64 62"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_886:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Kępie Zaleszańskie'
+    zipCode: 37-415
+    street: null
+    tel: "\r\n                    Tel.: 15 845 94 25"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_887:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Kidałowice,'
+    zipCode: 37-500
+    street: 160a
+    tel: "\r\n                    Tel.: 16 621 64 16"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_888:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Kombornia
+    zipCode: 38-421
+    street: null
+    tel: "\r\n                    Tel.: 13 435 48 08"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_889:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Kosienice,'
+    zipCode: 37-713
+    street: '32'
+    tel: "\r\n                    Tel.: 16 672 24 44"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_890:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Kozodrza
+    zipCode: 39-103
+    street: null
+    tel: "\r\n                    Tel.: 17 223 57 25"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_891:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Leżachów-Osada
+    zipCode: 37-511
+    street: null
+    tel: "\r\n                    Tel.: 16 622 43 99"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_892:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Lisów,'
+    zipCode: 38-242
+    street: '172'
+    tel: "\r\n                    Tel.: 13 449 12 70"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_893:
+    name: 'Dom ludowy'
+    Region: Region_6
+    city: Lubatowa
+    zipCode: 38-441
+    street: null
+    tel: "\r\n                    Tel.: 13 435 02 89"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_894:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Lubatówka,'
+    zipCode: 38-441
+    street: '98'
+    tel: "\r\n                    Tel.: 13 435 09 56"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_895:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Łężany,'
+    zipCode: 38-423
+    street: 'Jana Pawła II 2'
+    tel: "\r\n                    Tel.: 13 435 35 59"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_896:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Łopuszka Wielka'
+    zipCode: 37-220
+    street: null
+    tel: "\r\n                    Tel.: 16 642 41 95"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_897:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Łubienko
+    zipCode: 38-205
+    street: null
+    tel: "\r\n                    Tel.: 13 442 31 09"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_898:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Malinówka
+    zipCode: 36-213
+    street: null
+    tel: "\r\n                    Tel.: 13 439 14 50"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_899:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Matysówka
+    zipCode: 35-330
+    street: null
+    tel: "\r\n                    Tel.: 17 229 93 72"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_900:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Medynia Kańczucka'
+    zipCode: 37-220
+    street: null
+    tel: "\r\n                    Tel.: 16 642 40 46"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_901:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Miłocin
+    zipCode: 36-062
+    street: null
+    tel: "\r\n                    Tel.: 17 855 29 75"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_902:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Motycze Poduchowne'
+    zipCode: 39-432
+    street: null
+    tel: "\r\n                    Tel.: 15 836 23 79"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_903:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Niżatyce
+    zipCode: 37-220
+    street: null
+    tel: "\r\n                    Tel.: 16 642 47 87"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_904:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Niżna Łąka'
+    zipCode: 38-455
+    street: null
+    tel: "\r\n                    Tel.: 13 431 15 92"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_905:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Olszanica
+    zipCode: 38-622
+    street: null
+    tel: "\r\n                    Tel.: 13 461 71 00"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_906:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Orły
+    zipCode: 37-716
+    street: null
+    tel: "\r\n                    Tel.: 16 671 27 11"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_907:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Orzechowce
+    zipCode: 37-712
+    street: null
+    tel: "\r\n                    Tel.: 16 671 77 04"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_908:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Piątkowa
+    zipCode: 36-035
+    street: null
+    tel: "\r\n                    Tel.: 17 229 77 30"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_909:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Pogwizdów Stary'
+    zipCode: 36-130
+    street: null
+    tel: "\r\n                    Tel.: 17 228 53 93"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_910:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Poręby
+    zipCode: 38-460
+    street: null
+    tel: "\r\n                    Tel.: 13 435 29 54"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_911:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Przysieki
+    zipCode: 38-207
+    street: null
+    tel: "\r\n                    Tel.: 13 442 95 68"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_912:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Rogi
+    zipCode: 38-430
+    street: null
+    tel: "\r\n                    Tel.: 13 435 35 72"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_913:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Rudna Mała'
+    zipCode: 36-054
+    street: null
+    tel: "\r\n                    Tel.: 17 859 58 52"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_914:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Rzeszów,'
+    zipCode: 35-317
+    street: '71'
+    tel: "\r\n                    Tel.: 17 229 90 82"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_915:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Skowierzyn
+    zipCode: 37-415
+    street: null
+    tel: "\r\n                    Tel.: 15 845 94 13"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_916:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Srogów Dolny'
+    zipCode: 38-507
+    street: null
+    tel: "\r\n                    Tel.: 13 462 64 08"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_917:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Styków
+    zipCode: 36-060
+    street: null
+    tel: "\r\n                    Tel.: 17 851 66 43"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_918:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Tarnobrzeg,'
+    zipCode: 39-400
+    street: 'os. Mokrzyszów'
+    tel: "\r\n                    Tel.: 15 822 33 06"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_919:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Trzeboś
+    zipCode: 36-050
+    street: null
+    tel: "\r\n                    Tel.: 17 772 70 76"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_920:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Wysoka Głogowska,'
+    zipCode: 36-061
+    street: '302'
+    tel: "\r\n                    Tel.: 17 772 61 74"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_921:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: Zalesie
+    zipCode: 38-423
+    street: null
+    tel: "\r\n                    Tel.: 13 431 60 01"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_922:
+    name: 'Dom Ludowy'
+    Region: Region_6
+    city: 'Żarnowiec,'
+    zipCode: 38-460
+    street: '116'
+    tel: "\r\n                    Tel.: 13 438 01 86"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_923:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: Kraczkowa
+    zipCode: 37-124
+    street: null
+    tel: "\r\n                    Tel.: 17 226 61 28"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_924:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: 'Łąka,'
+    zipCode: 36-004
+    street: '281'
+    tel: "\r\n                    Tel.: 17 772 10 97"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_925:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: 'Przecław,'
+    zipCode: 39-320
+    street: 'Zielona 1'
+    tel: "\r\n                    Tel.: 17 581 31 38"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_926:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: Rogóżno
+    zipCode: 37-113
+    street: null
+    tel: "\r\n                    Tel.: 17 226 32 69"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_927:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: 'Szklary,'
+    zipCode: 36-025
+    street: '250'
+    tel: "\r\n                    Tel.: 17 229 53 19"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_928:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: 'Trzebownisko,'
+    zipCode: 36-001
+    street: '44'
+    tel: "\r\n                    Tel.: 17 772 26 14"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_929:
+    name: 'Dom Strażaka'
+    Region: Region_6
+    city: 'Wólka Pełkińska'
+    zipCode: 37-511
+    street: null
+    tel: "\r\n                    Tel.: 16 622 43 47"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_933:
+    name: 'Galeria Miejskiego Ośrodka Kultury'
+    Region: Region_6
+    city: 'Jarosław,'
+    zipCode: 37-500
+    street: 'Rynek 6'
+    tel: "\r\n                    Tel.: 16 621 58 44"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_934:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: 'Babice,'
+    zipCode: 37-755
+    street: '10'
+    tel: "\r\n                    Tel.: 16 671 12 11"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_935:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: Grębów
+    zipCode: 39-410
+    street: null
+    tel: "\r\n                    Tel.: 15 811 27 11"
+    email: gckgrebow1@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_936:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: 'Markowa,'
+    zipCode: 37-120
+    street: '1500'
+    tel: "\r\n                    Tel.: 17 226 53 46"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_937:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: 'Radomyśl nad Sanem,'
+    zipCode: 37-455
+    street: 'Rynek Duży 7'
+    tel: "\r\n                    Tel.: 15 845 43 02"
+    email: kulturarad@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_938:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: 'Ulanów,'
+    zipCode: 37-410
+    street: 'Tadeusza Buli 8'
+    tel: "\r\n                    Tel.: 15 876 30 14"
+    email: gckulanow@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_939:
+    name: 'Gminne Centrum Kultury'
+    Region: Region_6
+    city: 'Wiązownica,'
+    zipCode: 37-522
+    street: '210'
+    tel: "\r\n                    Tel.: 16 622 38 31"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_940:
+    name: 'Gminne Centrum Kultury Czytelnictwa'
+    Region: Region_6
+    city: 'Jodłowa,'
+    zipCode: 39-225
+    street: '25'
+    tel: "\r\n                    Tel.: 14 681 35 14"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_941:
+    name: 'Gminne Centrum Kultury i Ekologii'
+    Region: Region_6
+    city: 'Cisna,'
+    zipCode: 38-607
+    street: '23'
+    tel: "\r\n                    Tel/fax: 13 468 64 65"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_942:
+    name: 'Gminne Centrum Kultury i Sportu'
+    Region: Region_6
+    city: 'Kamionka,'
+    zipCode: 39-122
+    street: '69'
+    tel: "\r\n                    Tel/fax: 17 223 31 34"
+    email: kamionkagckif@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_943:
+    name: 'Gminne Centrum Kultury, Sportu i Turystyki'
+    Region: Region_6
+    city: 'Pruchnik,'
+    zipCode: 37-560
+    street: 'ks. Markiewicza 20'
+    tel: "\r\n                    Tel.: 16 628 80 65"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1005:
+    name: 'Gwarek. Dom Kultury Spółdzielni Mieszkaniowej Osiedla Kmity'
+    Region: Region_6
+    city: 'Rzeszów,'
+    zipCode: 35-112
+    street: 'Bohaterów 5'
+    tel: "\r\n                    Tel.: 17 856 47 81"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1006:
+    name: 'Jasielski Dom Kultury'
+    Region: Region_6
+    city: 'Jasło,'
+    zipCode: 38-200
+    street: 'Kołłątaja 1'
+    tel: "\r\n                    Tel/fax: 13 443 51 60"
+    email: jdksekretariat@gmail.com
+    www: null
+    slogan: null
+    target: null
+  House_1009:
+    name: 'Krakowski Teatr Edukacji. Nowak M.'
+    Region: Region_6
+    city: 'Mielec,'
+    zipCode: 39-300
+    street: 'Dworcowa 10 lok. 29'
+    tel: "\r\n                    Kom.: 500 46 70 45"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1010:
+    name: 'Krakowski Teatr Edukacji. Matera P.'
+    Region: Region_6
+    city: 'Mielec,'
+    zipCode: 39-300
+    street: 'Spółdzielcza 8 lok. 89'
+    tel: "\r\n                    Kom.: 660 14 54 70"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1011:
+    name: 'Leskie Centrum Edukacji, Sportu i Promocji'
+    Region: Region_6
+    city: 'Lesko,'
+    zipCode: 38-600
+    street: 'Parkowa 1'
+    tel: "\r\n                    Tel.: 13 469 64 11"
+    email: educentrum@lesko.pl
+    www: null
+    slogan: null
+    target: null
+  House_1012:
+    name: 'Lokalny Ośrodek Kultury'
+    Region: Region_6
+    city: 'Niechobrz,'
+    zipCode: 36-047
+    street: '278'
+    tel: "\r\n                    Tel.: 17 850 09 92"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1013:
+    name: 'Miejski Dom Kultury'
+    Region: Region_6
+    city: 'Kolbuszowa,'
+    zipCode: 36-100
+    street: 'Obrońców Pokoju 66'
+    tel: "\r\n                    Tel.: 17 227 15 63"
+    email: mdk@kulturakolbuszowa.pl
+    www: null
+    slogan: null
+    target: null
+  House_1014:
+    name: 'Miejski Dom Kultury'
+    Region: Region_6
+    city: 'Łańcut,'
+    zipCode: 37-100
+    street: 'Kościuszki 15'
+    tel: "\r\n                    Tel.: 17 225 22 94"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1015:
+    name: 'Miejski Dom Kultury. Filia'
+    Region: Region_6
+    city: 'Łańcut,'
+    zipCode: 37-100
+    street: 'Podzwierzyniec 74'
+    tel: "\r\n                    Tel.: 17 225 50 77"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1016:
+    name: 'Miejski Dom Kultury'
+    Region: Region_6
+    city: 'Stalowa Wola,'
+    zipCode: 37-450
+    street: '1 Sierpnia 9'
+    tel: "\r\n                    Tel.: 15 842 09 50"
+    email: mdk_stalowa@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_1017:
+    name: 'Miejski Dom Kultury im. Aleksandra Sas-Bandrowskiego'
+    Region: Region_6
+    city: 'Lubaczów,'
+    zipCode: 37-600
+    street: 'Konopnickiej 2'
+    tel: "\r\n                    Tel/fax: 16 632 14 97"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1018:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_6
+    city: 'Dębica,'
+    zipCode: 39-200
+    street: 'Sportowa 28'
+    tel: "\r\n                    Tel.: 14 681 42 01"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1019:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_6
+    city: 'Przeworsk,'
+    zipCode: 37-200
+    street: 'Jagiellońska 10a'
+    tel: "\r\n                    Tel/fax: 16 648 79 11"
+    email: mok@przeworsk.um.gov.pl
+    www: null
+    slogan: null
+    target: null
+  House_1020:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_6
+    city: 'Radymno,'
+    zipCode: 37-550
+    street: 'Lwowska 16'
+    tel: "\r\n                    Tel.: 16 628 14 11"
+    email: mokradymno@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_1021:
+    name: 'Miejski Ośrodek Kultury'
+    Region: Region_6
+    city: 'Rudnik nad Sanem,'
+    zipCode: 37-420
+    street: 'Grunwaldzka 17'
+    tel: "\r\n                    Tel.: 15 876 10 20"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1022:
+    name: 'Miejski Ośrodek Kultury i Rekreacji'
+    Region: Region_6
+    city: 'Dynów,'
+    zipCode: 36-065
+    street: 'ks. Ożoga 10'
+    tel: "\r\n                    Tel.: 16 652 18 06"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1023:
+    name: 'Miejskie Centrum Kultury'
+    Region: Region_6
+    city: 'Leżajsk,'
+    zipCode: 37-300
+    street: 'Mickiewicza 65'
+    tel: "\r\n                    Tel/fax: 17 242 11 34"
+    email: mdklezajsk@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_1032:
+    name: 'Niżańskie Centrum Kultury. Oddział zamiejscowy'
+    Region: Region_6
+    city: 'Zarzecze,'
+    zipCode: 37-400
+    street: 'Mickiewicza 24'
+    tel: "\r\n                    Tel.: 15 841 10 28"
+    email: dkz6@tlen.pl
+    www: null
+    slogan: null
+    target: null
+  House_1034:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Albigowa,'
+    zipCode: 37-122
+    street: '478'
+    tel: "\r\n                    Tel.: 17 226 71 27"
+    email: ok.albigowa@gminalancut.pl
+    www: null
+    slogan: null
+    target: null
+  House_1035:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Biedaczów
+    zipCode: 37-110
+    street: null
+    tel: "\r\n                    Tel.: 17 242 54 17"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1036:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Błażowa,'
+    zipCode: 36-030
+    street: 'Armii Krajowej 17'
+    tel: "\r\n                    Tel.: 17 229 70 44"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1037:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Cierpisz
+    zipCode: 37-124
+    street: null
+    tel: "\r\n                    Tel.: 17 226 65 76"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1038:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Czudec,'
+    zipCode: 38-120
+    street: 'Słoneczna 2'
+    tel: "\r\n                    Tel.: 17 277 24 44"
+    email: okczudec@onet.eu
+    www: null
+    slogan: null
+    target: null
+  House_1039:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Głuchów
+    zipCode: 37-100
+    street: null
+    tel: "\r\n                    Tel.: 17 225 83 58"
+    email: okdgluchow@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_1040:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Grodzisko Dolne,'
+    zipCode: 37-306
+    street: '332'
+    tel: "\r\n                    Tel.: 17 243 61 41"
+    email: gok_groc@poczta.onet.pl
+    www: null
+    slogan: null
+    target: null
+  House_1041:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Handzlówka
+    zipCode: 37-123
+    street: null
+    tel: "\r\n                    Tel.: 17 247 29 91"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1042:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Kosina
+    zipCode: 37-112
+    street: null
+    tel: "\r\n                    Tel.: 17 224 61 29"
+    email: ckgl@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_1043:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Krasne
+    zipCode: 36-007
+    street: null
+    tel: "\r\n                    Tel.: 17 855 52 08"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1044:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Krzemienica,'
+    zipCode: 37-127
+    street: '732'
+    tel: "\r\n                    Tel.: 17 225 45 06"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1045:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Nowa Sarzyna,'
+    zipCode: 37-310
+    street: '1 Maja 1'
+    tel: "\r\n                    Tel.: 17 241 15 07"
+    email: oknf@interia.pl
+    www: null
+    slogan: null
+    target: null
+  House_1046:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Rogóżno
+    zipCode: 37-113
+    street: null
+    tel: "\r\n                    Tel.: 17 226 32 69"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1047:
+    name: 'Ośrodek Kultury. Galeria sztuki, orkiestra dęta, zespoły młodzieżowe'
+    Region: Region_6
+    city: 'Sieniawa,'
+    zipCode: 37-530
+    street: 'Rynek 1'
+    tel: "\r\n                    Tel.: 16 622 73 01"
+    email: osrodekkulturysieniawa@o2.pl
+    www: null
+    slogan: null
+    target: null
+  House_1048:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Sonina,'
+    zipCode: 37-100
+    street: '266'
+    tel: "\r\n                    Tel.: 17 224 18 29"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1049:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Wiśniowa,'
+    zipCode: 38-124
+    street: '136'
+    tel: "\r\n                    Tel.: 17 277 53 93"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1050:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: 'Wola Mała'
+    zipCode: 37-100
+    street: null
+    tel: "\r\n                    Tel.: 17 225 33 79"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1051:
+    name: 'Ośrodek Kultury'
+    Region: Region_6
+    city: Wysoka
+    zipCode: 37-100
+    street: null
+    tel: "\r\n                    Tel.: 17 225 41 55"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1052:
+    name: 'Ośrodek Kultury Gminy i Miasta'
+    Region: Region_6
+    city: 'Kańczuga,'
+    zipCode: 37-220
+    street: 'Parkowa 1'
+    tel: "\r\n                    Tel.: 16 642 30 73"
+    email: okmig@op.pl
+    www: null
+    slogan: null
+    target: null
+  House_1055:
+    name: 'Przemyskie Centrum Kultury i Nauki'
+    Region: Region_6
+    city: 'Przemyśl,'
+    zipCode: 37-700
+    street: 'al. XXV Drużyny Strzeleckiej 1'
+    tel: "\r\n                    Tel/fax: 16 678 50 63"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1057:
+    name: 'Regionalne Centrum Kultur Pogranicza'
+    Region: Region_6
+    city: 'Krosno,'
+    zipCode: 38-400
+    street: 'Kolejowa 1'
+    tel: "\r\n                    Tel.: 13 432 18 98"
+    email: kdk.kdk@wp.pl
+    www: null
+    slogan: null
+    target: null
+  House_1058:
+    name: 'Regionalny Ośrodek Badań i Dokumentacji Zabytków'
+    Region: Region_6
+    city: 'Rzeszów,'
+    zipCode: 35-045
+    street: 'Hetmańska 15'
+    tel: "\r\n                    Tel.: 17 853 29 43"
+    email: rokbidz.rzeszow@kobiz.pl
+    www: null
+    slogan: null
+    target: null
+  House_1059:
+    name: 'Rode. Polska Scena Edukacji. Marczyk M.'
+    Region: Region_6
+    city: 'Krosno,'
+    zipCode: 38-400
+    street: 'Żwirki i Wigury 13 lok. 2'
+    tel: "\r\n                    Tel.: 13 439 20 16"
+    email: null
+    www: null
+    slogan: null
+    target: null
+  House_1060:
+    name: 'Samorządowe Centrum Kultury'
+    Region: Region_6
+    city: 'Mielec,'
+    zipCode: 39-300
+    street: 'al. Niepodległości 7'
+    tel: "\r\n                    Tel.: 17 586 23 73"
+    email: 'sck@<span class="hitHighlight">kultura</span>.miel'
+    www: null
+    slogan: null
+    target: null
+Region:
+  Region_1:
+    name: zachodniopomorskie
+  Region_2:
+    name: pomorskie
+  Region_3:
+    name: mazowieckie
+  Region_4:
+    name: dolnośląskie
+  Region_5:
+    name: warmińsko-mazurskie
+  Region_6:
+    name: podkarpackie
+  Region_7:
+    name: kujawsko-pomorskie
+  Region_8:
+    name: lubuskie
+  Region_9:
+    name: lubelskie
+  Region_10:
+    name: wielkopolskie
+  Region_11:
+    name: śląskie
+  Region_12:
+    name: podlaskie
+  Region_13:
+    name: opolskie
+  Region_14:
+    name: małopolskie
+  Region_15:
+    name: łódzkie
+  Region_16:
+    name: świętokrzyskie
+Package:
+  Package_1:
+    House: House_3
+    letter: null
+    status: '0'
+  Package_2:
+    House: House_7
+    letter: null
+    status: '0'
+  Package_3:
+    House: House_8
+    letter: null
+    status: '0'
+  Package_4:
+    House: House_6
+    letter: null
+    status: '0'
+  Package_5:
+    House: House_1
+    letter: null
+    status: '0'

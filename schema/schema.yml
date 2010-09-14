@@ -1,0 +1,55 @@
+House:
+  tableName: houses
+  columns:
+    idhouses:
+      primary: true
+      unsigned: true
+      autoincrement: true
+      type: integer
+    name: string(150)
+    region:
+      unsigned: true
+      type: integer
+    city: string(100)
+    zipCode: string(6)
+    street: string(150)
+    tel: string(50)
+    email: string(50)
+    www: string(50)
+    slogan: string(255)
+    target: tinyint(1)
+  relations:
+    Region:
+      local: region
+      foreign: idregions
+      foreignType: one
+Region:
+  tableName: regions
+  columns:
+    idregions:
+      primary: true
+      unsigned: true
+      autoincrement: true
+      type: integer
+    name: string(100)
+Package:
+  tableName: packages
+  columns:
+    idpackages:
+      primary: true
+      unsigned: true
+      autoincrement: true
+      type: integer
+    recipient:
+      unsigned: true
+      notnull: true
+      type: integer
+    letter:
+      unsigned: true
+      type: integer
+    status: tinyint
+  relations:
+    House:
+      local: recipient
+      foreign: idhouses
+      foreignType: one
